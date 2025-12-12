@@ -1,0 +1,27 @@
+<products>
+	<product>
+		<image>lunch/1.png</image>
+		<title>Chicken karahi</title>
+		<description>$26.0</description>
+	</product>
+	<product>
+		<image>lunch/2.png</image>
+		<title>Kerala Fish Curry</title>
+		<description>$22.0</description>
+	</product>
+	<product>
+		<image>lunch/3.png</image>
+		<title>Aloo Naan</title>
+		<description>$7.0</description>
+	</product>
+	<product>
+		<image>lunch/4.png</image>
+		<title>Jeera Rice</title>
+		<description>$13.0</description>
+	</product>
+	<product>
+		<image>lunch/5.png</image>
+		<title>Chicken Biryani</title>
+		<description>$18.0</description>
+	</product>
+</products>

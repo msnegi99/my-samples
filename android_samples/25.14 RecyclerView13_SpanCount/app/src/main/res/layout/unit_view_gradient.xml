@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="#B7757573"
+    android:layout_margin="3dp"
+    >
+<!---->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/show_view"
+        android:alpha="0.7"
+        android:scaleType="centerCrop"
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back"
+        >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Detail"
+            android:textAllCaps="true"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:background="#fff"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            style="?android:attr/borderlessButtonStyle"
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>

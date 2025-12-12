@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialogbg">
+
+    <TextView
+        android:id="@+id/field"
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="4dp"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/labeltexttwo"
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/field"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/okButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_below="@+id/labeltexttwo"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/black"
+        android:layout_marginTop="37dp"
+        android:text="Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/msgbutton"
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:layout_below="@+id/okButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="41dp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="50dp"
+        android:background="@drawable/button"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/anstextone"
+        android:layout_width="wrap_content"
+        android:layout_height="5dp"
+        android:layout_alignLeft="@+id/msgbutton"
+        android:layout_below="@+id/msgbutton"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

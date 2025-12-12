@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">canvassurfaceviewdemo</string>
+
+    <string name="clipping">Clipping</string>
+    <string name="translated">Translated Text</string>
+    <string name="skewed">Skewed and </string>
+    <string name="keep_tapping">Keep tapping.</string>
+    <string name="done">Done!</string>
+</resources>

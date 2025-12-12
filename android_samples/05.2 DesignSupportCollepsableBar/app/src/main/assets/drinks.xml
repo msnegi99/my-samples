@@ -1,0 +1,32 @@
+<products>
+	<product>
+		<image>drinks1.png</image>
+		<title>Pepsi Cane</title>
+		<description></description>
+        <price>12.00</price>
+	</product>
+	<product>
+		<image>drinks2.png</image>
+		<title>Mirinda Cane</title>
+		<description></description>
+        <price>16.00</price>
+	</product>
+	<product>
+		<image>drinks3.png</image>
+		<title>Coca Cola Cane</title>
+		<description></description>
+        <price>8.00</price>
+	</product>
+	<product>
+		<image>drinks4.png</image>
+		<title>Coke Cane</title>
+		<description></description>
+        <price>22.00</price>
+	</product>
+	<product>
+		<image>drinks5.png</image>
+		<title>Sprite Cane</title>
+		<description></description>
+        <price>14.00</price>
+	</product>
+</products>

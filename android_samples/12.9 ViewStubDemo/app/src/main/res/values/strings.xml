@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">viewstubdemo</string>
+
+    <string name="network_issue">Please check your internet connection and try again.</string>
+
+
+</resources>

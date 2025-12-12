@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextViewSamples</string>
+    <string name="copyright">This is <u><b><i>Copyright</i></b></u> message. This is <strike>Strikeout</strike>, <sup>Superscript</sup>, <sub>Subscript</sub>, <font color="#0000ff" face="Arial" size="20">Font and Size</font> </string>
+</resources>

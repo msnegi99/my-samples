@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebSearchRetrofit</string>
+
+    <string name="parse_error">Parse error.</string>
+    <string name="internet_error">Internet not available.</string>
+    <string name="server_error">Cannot reach server. Please try after sometime.</string>
+
+</resources>

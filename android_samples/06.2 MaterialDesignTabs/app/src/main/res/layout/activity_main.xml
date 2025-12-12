@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnTab1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tab --> app:tabGravity='center' app:tabMode='fixed'" />
+
+            <Button
+                android:id="@+id/btnTab2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tab --> app:tabGravity='fill' app:tabMode='fixed'" />
+
+            <Button
+                android:id="@+id/btnTab3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tab --> app:tabGravity='fill' app:tabMode='fixed'" />
+
+            <Button
+                android:id="@+id/btnTab4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tab --> app:tabGravity='center' app:tabMode='scrollable'" />
+
+            <TextView
+                android:text="Note : AppBarLayout doesn’t work here. So, app:layout_scrollFlags='scroll|enterAlways|snap' does not work"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</RelativeLayout>

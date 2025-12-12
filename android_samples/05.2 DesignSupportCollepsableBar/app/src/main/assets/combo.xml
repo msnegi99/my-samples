@@ -1,0 +1,32 @@
+<products>
+	<product>
+		<image>combo1.png</image>
+		<title>Pizza for family</title>
+		<description>Four pizza with one big pepsi.</description>
+        <price>82.00</price>
+	</product>
+	<product>
+		<image>combo2.png</image>
+		<title>Small Pizza</title>
+		<description>One small pizza with french fries and one coke.</description>
+        <price>26.00</price>
+	</product>
+	<product>
+		<image>combo3.png</image>
+		<title>Nat Crack Deal</title>
+		<description>Two pizza, two pepsi and one pasta.</description>
+        <price>58.00</price>
+	</product>
+	<product>
+		<image>combo4.png</image>
+		<title>Combo small</title>
+		<description>One pizza three buger and one pepsi.</description>
+        <price>42.00</price>
+	</product>
+	<product>
+		<image>combo5.png</image>
+		<title>Combo Ultra small</title>
+		<description>One double pizza and french fries.</description>
+        <price>14.00</price>
+	</product>
+</products>

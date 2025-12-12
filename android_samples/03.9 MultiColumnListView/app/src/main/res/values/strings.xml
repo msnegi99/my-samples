@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiColumnListView</string>
+
+    <!-- table related -->
+    <string name="sNo">S no.</string>
+    <string name="product">Product</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+
+</resources>

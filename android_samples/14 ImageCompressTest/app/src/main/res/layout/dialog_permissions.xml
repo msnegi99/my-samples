@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:layout_margin="20dp"
+    android:background="@drawable/dialogbg">
+
+    <TextView
+        android:id="@+id/txtMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:text="App need all required permissions to run functionalities !!!"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnDonotAllow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#FFD65C"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:text="YES"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnAllow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:background="#FFD65C"
+            android:layout_gravity="right"
+            android:text="NO"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:textColor="#FFFFFF"/>
+    </LinearLayout>
+
+
+</LinearLayout>

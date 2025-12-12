@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multi Language App</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="welcome">Welcome!</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Don\'t have account? Sign Up</string>
+
+
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="deutsch">Deutsch</string>
+    <string name="french">French</string>
+    <string name="japanese">Japanese</string>
+
+</resources>

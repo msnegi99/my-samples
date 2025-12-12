@@ -1,0 +1,32 @@
+<products>
+	<product>
+		<image>pizza12.png</image>
+		<title>Sausage Pizza</title>
+		<description>American cheese, Baby Spinach, Yellow Corn, Sliced Ripe Olives.</description>
+        <price>12.00</price>
+	</product>
+	<product>
+		<image>pizza13.png</image>
+		<title>Pepperoni Pizza</title>
+		<description>Yellow or White Onions, Mushrooms, Tomatoes, Tomato Juice, Salt, Calcium Chloride, Citric Acid.</description>
+        <price>16.00</price>
+	</product>
+	<product>
+		<image>pizza14.png</image>
+		<title>Supino</title>
+		<description>Aged Cayenne Red Peppers, Vinegar, Water, Salt, Garlic Powder, Xanthan Gum, Oleoresin Paprika.</description>
+        <price>8.00</price>
+	</product>
+	<product>
+		<image>pizza15.png</image>
+		<title>Buddy's Pizza</title>
+		<description>Part Skim Mozzarella Cheese, Modified Food Starch, Nonfat Milk, Whey Protein Concentrate.</description>
+        <price>22.00</price>
+	</product>
+	<product>
+		<image>pizza16.png</image>
+		<title>Little Vincent's Pizza</title>
+		<description>Pepperoncini, Water, Salt, Citric Acid, Vinegar, Sodium Bisulfite, Sodium Benzoate.</description>
+        <price>14.00</price>
+	</product>
+</products>

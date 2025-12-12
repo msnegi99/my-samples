@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/startAnimationBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ripple_effect"
+        android:padding="16dp"
+        android:text="Start animation" />
+
+    <TextSwitcher
+        android:id="@+id/tvSwitcher"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/startAnimationBtn" />
+
+    <!--ImageSwitcher example-->
+
+    <ImageSwitcher
+        android:id="@+id/imgSw"
+        android:layout_below="@+id/tvSwitcher"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"/>
+
+    <Button
+        android:id="@+id/btnPrevious"
+        android:layout_below="@+id/imgSw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Previous" android:layout_marginLeft="100dp" />
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/btnPrevious"
+        android:layout_toRightOf="@+id/btnPrevious"
+        android:text="Next" />
+
+
+    <!--Drawable Transitions-->
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_below="@+id/imgSw"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <ImageView
+            android:id="@+id/ivPosition"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/transition" />
+    </LinearLayout>
+
+    <!-- drawers end -->
+
+    <FrameLayout
+        android:id="@+id/drawerLL"
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/plain_boarder">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/clickbtn"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="right"
+                android:background="@android:color/darker_gray"
+                android:orientation="horizontal" />
+        </FrameLayout>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center|right"
+            android:layout_marginRight="10dp"
+            android:ellipsize="none"
+            android:gravity="bottom|center"
+            android:rotation="270"
+            android:singleLine="true"
+            android:text="Click Here"
+            android:textStyle="bold" />
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/popup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/round_corner_boarder">
+
+        <ListView
+            android:id="@+id/selectionItem"
+            android:layout_width="200dp"
+            android:layout_height="450dp" />
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/fab_icon" />
+
+    <!--Ripple Effect is saved as background XML file-->
+
+
+
+
+</RelativeLayout>

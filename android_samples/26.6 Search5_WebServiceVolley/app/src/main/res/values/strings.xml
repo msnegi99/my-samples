@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebSearchVolley</string>
+
+    <string name="parse_error">Parse error.</string>
+    <string name="internet_error">Internet not available.</string>
+    <string name="server_error">Cannot reach server. Please try after sometime.</string>
+    <string name="network_issue">Please check your internet connection and try again.</string>
+</resources>

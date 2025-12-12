@@ -1,0 +1,32 @@
+<products>
+	<product>
+		<image>checkenPizzas1.png</image>
+		<title>Chicken pizza</title>
+		<description>Made with red onion, plum tomatoes, mozzarella cheese.</description>
+        <price>12.00</price>
+	</product>
+	<product>
+		<image>checkenPizzas2.png</image>
+		<title>Hawaiian Pizza</title>
+		<description>Made with roasted red peppers, chicken, sweet onion, sugar.</description>
+        <price>16.00</price>
+	</product>
+	<product>
+		<image>checkenPizzas3.png</image>
+		<title>Buffalo Chicken Wing Pizza</title>
+		<description>Made with mozzarella cheese, chicken pieces, Creole seasoning, oil, flour.</description>
+        <price>8.00</price>
+	</product>
+	<product>
+		<image>checkenPizzas4.png</image>
+		<title>Chicken, Spinach And Feta Pizza</title>
+		<description>Part Skim Mozzarella Cheese, Modified Food Starch, Nonfat Milk, Whey Protein Concentrate.</description>
+        <price>22.00</price>
+	</product>
+	<product>
+		<image>checkenPizzas5.png</image>
+		<title>Bacon Pizza</title>
+		<description>Made with bell pepper, tomato, green onion, pizza crusts, barbecue sauce.</description>
+        <price>14.00</price>
+	</product>
+</products>

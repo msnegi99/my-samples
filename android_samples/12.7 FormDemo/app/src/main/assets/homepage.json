@@ -1,0 +1,46 @@
+{
+    "Data": [
+        {
+            "SectionId": "1",
+            "SectionType": "2",
+            "SectionName": "Single_Image_Section",
+            "Title": "",
+            "Link": "",
+            "ImageUrl": "",
+            "Data": [
+            ]
+        },
+        {
+            "SectionId": "2",
+            "SectionType": "3",
+            "SectionName": "Two_Image_Section",
+            "Title": "",
+            "Link": "",
+            "ImageUrl": "",
+            "Data": [
+            ]
+        },
+        {
+            "SectionId": "3",
+            "SectionType": "4",
+            "SectionName": "Three_Image_Section",
+            "Title": "",
+            "Link": "",
+            "ImageUrl": "",
+            "Data": [
+            ]
+        },
+        {
+            "SectionId": "4",
+            "SectionType": "5",
+            "SectionName": "Four_Image_Section",
+            "Title": "",
+            "Link": "",
+            "ImageUrl": "",
+            "Data": [
+            ]
+        }
+    ],
+    "Message": "success",
+    "Status": "ok"
+}

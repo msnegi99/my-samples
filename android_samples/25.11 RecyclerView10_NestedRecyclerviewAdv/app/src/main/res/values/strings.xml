@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NestedRecyclerview</string>
+
+    <string name="no_record_found_n_please_select_hospital_to_continue">no record found n please select hospital to continue</string>
+    <string name="well_women_check">Well Women Check</string>
+    <string name="no_doctor_available">No Doctor(s) Found</string>
+    <string name="view_profile">View Profile</string>
+    <string name="book_an_appointment">Book An Appointment</string>
+    <string name="doctor_profile">Doctor Profile</string>
+    <string name="imgBehind_description">image to flip to</string>
+    <string name="search_by_doctor">Search</string>
+
+</resources>

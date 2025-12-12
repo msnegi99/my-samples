@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="horizontal"
+              android:background="@color/drawer_header_bg"
+              android:padding="10dp">
+
+    <ImageButton
+            android:id="@+id/facebook"
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:src="@drawable/facebook"
+            android:scaleType="centerInside"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginRight="5dp"/>
+
+    <ImageButton
+            android:id="@+id/twitter"
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:src="@drawable/twitter"
+            android:scaleType="centerInside"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginRight="5dp"/>
+
+    <ImageButton
+            android:id="@+id/instagram"
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:src="@drawable/instagram"
+            android:scaleType="centerInside"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginRight="5dp"/>
+
+    <ImageButton
+            android:id="@+id/linkedin"
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:src="@drawable/linkedin"
+            android:scaleType="centerInside"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginRight="5dp"/>
+
+    <ImageButton
+            android:id="@+id/youtube"
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:src="@drawable/youtube"
+            android:scaleType="centerInside"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginRight="5dp"/>
+
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">images.pexels.com</domain>
+        <domain includeSubdomains="true">cdn.pixabay.com</domain>
+        <domain includeSubdomains="true">www.freeimages.com</domain>
+        <domain includeSubdomains="true">commonsware.com</domain>
+        <domain includeSubdomains="true">www.learningcontainer.com</domain>
+        <domain includeSubdomains="true">raw.githubusercontent.com</domain>
+        <domain includeSubdomains="true">commondatastorage.googleapis.com</domain>
+        <domain includeSubdomains="true">.</domain>
+    </domain-config>
+</network-security-config>
