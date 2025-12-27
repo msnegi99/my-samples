@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GooglePlacesDemo</string>
+    <string name="from_city">From City</string>
+</resources>
