@@ -68,8 +68,6 @@ class HomeFragment : Fragment(), OnMapReadyCallback, LatLongReceived {
     var locationManager: LocManager? = null
 
     lateinit var mapView: MapView
-    lateinit  var locationMarker: Marker
-
     private var _binding: FragmentHomeBinding? = null
 
     // This property is only valid between onCreateView and onDestroyView.
@@ -356,6 +354,7 @@ class HomeFragment : Fragment(), OnMapReadyCallback, LatLongReceived {
                     locData.battery_level);
             } catch (exception: NullPointerException) {
             } catch (e: Exception) {
+                println(e.message + "uuuu")
             }
         }
     }
@@ -398,13 +397,26 @@ class HomeFragment : Fragment(), OnMapReadyCallback, LatLongReceived {
             googleMap!!.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition))
 
             if (type.equals("current", ignoreCase = true)) {
-                val markerOptions: MarkerOptions = MarkerOptions()
+                /*val markerOptions: MarkerOptions = MarkerOptions()
                     .position(latLng)
                     .draggable(false)
                     .title(title)
 
-                if (locationMarker != null) locationMarker!!.remove()
-                locationMarker = googleMap!!.addMarker(markerOptions)!!
+//                if (locationMarker != null) locationMarker!!.remove()
+                var locationMarker = googleMap!!.addMarker(markerOptions)!!*/
+                googleMap!!.addMarker(
+                    MarkerOptions()
+                        .position(
+                            com.google.android.gms.maps.model.LatLng(
+                                latLng.latitude,
+                                latLng.longitude
+                            )
+                        )
+                        .title(title)
+                        .draggable(false)
+                        .icon(BitmapDescriptorFactory.fromResource(R.drawable.greendot))
+                )
+                println("test")
             } else if (type.equals("history", ignoreCase = true)) {
                 googleMap!!.addMarker(
                     MarkerOptions()
