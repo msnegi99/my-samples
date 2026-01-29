@@ -396,41 +396,26 @@ class HomeFragment : Fragment(), OnMapReadyCallback, LatLongReceived {
 
             googleMap!!.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition))
 
-            if (type.equals("current", ignoreCase = true)) {
-                /*val markerOptions: MarkerOptions = MarkerOptions()
+            /*val markerOptions: MarkerOptions = MarkerOptions()
                     .position(latLng)
                     .draggable(false)
                     .title(title)
 
-//                if (locationMarker != null) locationMarker!!.remove()
-                var locationMarker = googleMap!!.addMarker(markerOptions)!!*/
-                googleMap!!.addMarker(
-                    MarkerOptions()
-                        .position(
-                            com.google.android.gms.maps.model.LatLng(
-                                latLng.latitude,
-                                latLng.longitude
-                            )
+            var locationMarker = googleMap!!.addMarker(markerOptions)!!*/
+
+            googleMap!!.addMarker(
+                MarkerOptions()
+                    .position(
+                        com.google.android.gms.maps.model.LatLng(
+                            latLng.latitude,
+                            latLng.longitude
                         )
-                        .title(title)
-                        .draggable(false)
-                        .icon(BitmapDescriptorFactory.fromResource(R.drawable.greendot))
-                )
-                println("test")
-            } else if (type.equals("history", ignoreCase = true)) {
-                googleMap!!.addMarker(
-                    MarkerOptions()
-                        .position(
-                            com.google.android.gms.maps.model.LatLng(
-                                latLng.latitude,
-                                latLng.longitude
-                            )
-                        )
-                        .title(title)
-                        .draggable(false)
-                        .icon(BitmapDescriptorFactory.fromResource(R.drawable.greendot))
-                )
-            }
+                    )
+                    .title(title)
+                    .draggable(false)
+                    .icon(BitmapDescriptorFactory.fromResource(R.drawable.greendot))
+            )
+
         }
     }
 

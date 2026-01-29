@@ -41,7 +41,8 @@
             android:name=".regularupdate.MyLocationService"
             android:enabled="true"
             android:exported="true"
-            android:foregroundServiceType="location" />
+            android:foregroundServiceType="location"
+            android:process=":background_process"/>
 
     </application>
 

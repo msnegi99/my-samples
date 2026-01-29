@@ -38,7 +38,7 @@ class MyLocationService : Service(), GoogleApiClient.ConnectionCallbacks,
     private var lastLocation: Location? = null
     private var locationRequest: LocationRequest? = null
 
-    private val UPDATE_INTERVAL = 3000
+    private val UPDATE_INTERVAL = 1000
     private val FASTEST_INTERVAL = 1000
     var batteryLevel: Int = 0
 
