@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.msnegi.mahalakshmi.MainActivity" >
+
+    <item
+        android:id="@+id/action_cart"
+        android:icon="@drawable/ic_cart"
+        android:title="Cart"
+        app:actionLayout="@layout/custom_action_item_layout"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/assistance"
+        android:icon="@drawable/qm_assistance_24"
+        android:title="@string/assistance"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/sync"
+        android:icon="@drawable/qm_sync_24"
+        android:title="@string/manualSync"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/qm_logout_24"
+        android:title="@string/log_out"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/version"
+        android:title="@string/version"
+        app:showAsAction="never" />
+
+</menu>
