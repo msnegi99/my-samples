@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statusBarColor">#0AA2EF</color>
+    <color name="accent_material_light">#95F0FF</color>
+    <color name="colorPrimaryDark">#25D5FF</color>
+    <color name="accent_color_light">#d9d9d9</color>
+    <color name="accent_color_dark">#b2b2b5</color>
+    <color name="primary_color">#2AE0EB</color>
+    <color name="colorAccent">#b2b2b5</color>
+    <color name="colorPrimary">#21B2F0</color>
+    <color name="lightGreen">#9CFFD2</color>
+    <color name="task_blue">#45A4F8</color>
+</resources>
