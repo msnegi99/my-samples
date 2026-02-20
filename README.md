@@ -1,6 +1,6 @@
 # Online Tutorials
 
-<a href="https://www.youtube.com/watch?v=MCqmeNBKV9k&list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2" style="margin-right: 10px;">
+<a href="https://www.youtube.com/watch?v=R-X2nM3d2FI&list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2&index=1" style="margin-right: 10px;">
     Jetpack Tutorial 1
 </a>
 </br>
@@ -19,3 +19,13 @@
 <a href="https://www.youtube.com/watch?v=t3ZonTbwzAs&list=PLRKyZvuMYSINkJXNAdJwZofK-1WvFeyqO">
     Jetpack Compose - MVVM Pattern, Navigation, HILT
 </a>
+</br>
+<a href="https://www.youtube.com/watch?v=Wb2v85cp4vg">
+    What is GraphQL?
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=DI751uM21Wc">
+    What is Clean Architecture in Android?
+</a>
+
+
