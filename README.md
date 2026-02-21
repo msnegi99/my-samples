@@ -27,5 +27,41 @@
 <a href="https://www.youtube.com/watch?v=DI751uM21Wc">
     What is Clean Architecture in Android?
 </a>
-
+</br></br>
+Coroutines
+----------
+</br>
+<a href="https://www.youtube.com/watch?v=VF2Zz_klRQ8">
+    Kotlin Coroutine WithContext & runBlocking Functions
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=dTqOVsdj0pY">
+    Kotlin Coroutine Builders - Launch vs Async
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=jS5qB9EXfPY">
+    ViewModelScope & LifecycleScope in Android Coroutines
+</a>
+</br></br>
+Kotlin Flows & Channels Introduction
+------------------------------------
+</br>
+<a href="https://www.youtube.com/watch?v=kOpRhtbhftI&list=PLRKyZvuMYSIPJ84lXQSHMn8P-0J8jW5YT">
+    Kotlin Flows & Channels Introduction
+</a>
+</br></br>
+Software Design Principles | SOLID Principles
+---------------------------------------------
+</br>
+<a href="https://www.youtube.com/watch?v=B9meVIVRD9o&list=PLRKyZvuMYSIPagvPwbpaLdtn7Txw_8O42">
+    Software Design Principles | SOLID Principles - Introduction
+</a>
+</br></br>
+Hilt Android Dependency Injection
+---------------------------------
+</br>
+<a href="https://www.youtube.com/watch?v=64hHvlR-d4k&list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf">
+    Hilt Android Dependency Injection
+</a>
+</br></br>
 
