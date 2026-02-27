@@ -20,6 +20,10 @@
     Jetpack Compose - MVVM Pattern, Navigation, HILT
 </a>
 </br>
+<a href="https://github.com/jetpack-compose/jetpack-compose-awesome?tab=readme-ov-file">
+    Jetpack Compose
+</a>
+</br>
 <a href="https://www.youtube.com/watch?v=Wb2v85cp4vg">
     What is GraphQL?
 </a>
@@ -57,6 +61,13 @@ Software Design Principles | SOLID Principles
     Software Design Principles | SOLID Principles - Introduction
 </a>
 </br></br>
+Dagger 2 Dependency Injection
+---------------------------------
+</br>
+<a href="https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd">
+    What is Dependency Injection?
+</a>
+</br></br>
 Hilt Android Dependency Injection
 ---------------------------------
 </br>
@@ -64,4 +75,17 @@ Hilt Android Dependency Injection
     Hilt Android Dependency Injection
 </a>
 </br></br>
+Paging-3-Demo
+-------------
+</br>
+<a href="https://youtu.be/bGRQ5nLVPhk">
+    Paging-3-Demo
+</a>
+<a href="https://github.com/CheezyCode/Android-Paging-3-Demo">
+    github sample
+</a>
+
+
+
+
 
