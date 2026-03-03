@@ -84,8 +84,39 @@ Paging-3-Demo
 <a href="https://github.com/CheezyCode/Android-Paging-3-Demo">
     github sample
 </a>
-
-
-
+</br></br>
+Android Rx-java
+---------------
+</br>
+<a href="https://www.youtube.com/watch?v=2HnRBRfbRwI&list=PL4EnMCc01RC2E3ovdq4a1zZswPmvHtNrz">
+    Android Rx-java with Retrofit and RecyclerView
+</a>
+</br></br>
+Background WorkManager
+----------------------
+</br>
+<a href="https://www.youtube.com/watch?v=p79pfjDpkyQ">
+    Background WorkManager
+</a>
+</br></br>
+</br></br>
+Security and Privacy Changes in Android 11
+------------------------------------------
+</br>
+<a href="https://www.youtube.com/watch?v=p79pfjDpkyQ">
+1. Scoped Storage</br>
+2. Scoped Storage - Media Storage</br>
+3. Scoped Storage - Special App Access</br>
+4. Permissions</br>
+5. One Time Permissions</br>
+6. Background Location Request</br>
+7. Permission Best Practices</br>
+8. Automatically Revoke Runtime permissions</br>
+9. Package Visibility</br>
+10. Data Access Visibility</br>
+11. Changes to foreground Service</br>
+12. Biometric API changes and new Identity credential API</br>
+</a>
+</br></br>
 
 
