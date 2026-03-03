@@ -99,7 +99,6 @@ Background WorkManager
     Background WorkManager
 </a>
 </br></br>
-</br></br>
 Security and Privacy Changes in Android 11
 ------------------------------------------
 </br>
