@@ -117,5 +117,11 @@ Security and Privacy Changes in Android 11
 12. Biometric API changes and new Identity credential API</br>
 </a>
 </br></br>
-
-
+<a href="https://www.geeksforgeeks.org/android/jetpack-architecture-components-in-android/">
+    Jetpack Architecture Components in Android
+</a>
+</br></br>
+<a href="https://www.geeksforgeeks.org/android/android-jetpack-compose-tutorial/">
+    Jetpack Compose Tutorial
+</a>
+</br></br>
