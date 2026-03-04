@@ -78,7 +78,7 @@ Hilt Android Dependency Injection
 Paging-3-Demo
 -------------
 </br>
-<a href="https://youtu.be/bGRQ5nLVPhk">
+<a href="https://www.youtube.com/watch?v=nJovARMajeE">
     Paging-3-Demo
 </a>
 <a href="https://github.com/CheezyCode/Android-Paging-3-Demo">
@@ -116,7 +116,7 @@ Security and Privacy Changes in Android 11
 11. Changes to foreground Service</br>
 12. Biometric API changes and new Identity credential API</br>
 </a>
-</br></br>
+</br>
 <a href="https://www.geeksforgeeks.org/android/jetpack-architecture-components-in-android/">
     Jetpack Architecture Components in Android
 </a>
