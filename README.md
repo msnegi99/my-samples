@@ -102,7 +102,7 @@ Background WorkManager
 Security and Privacy Changes in Android 11
 ------------------------------------------
 </br>
-<a href="https://www.youtube.com/watch?v=p79pfjDpkyQ">
+<a href="https://www.youtube.com/watch?v=BXF0AMfaU3w&t=1437s">
 1. Scoped Storage</br>
 2. Scoped Storage - Media Storage</br>
 3. Scoped Storage - Special App Access</br>
