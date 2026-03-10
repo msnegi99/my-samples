@@ -125,3 +125,40 @@ Security and Privacy Changes in Android 11
     Jetpack Compose Tutorial
 </a>
 </br></br>
+<a href="https://www.youtube.com/watch?v=jcO6p5TlcGs">
+    Everything about storage on Android
+</a>
+</br></br>
+<a href="https://github.com/jetpack-compose/jetpack-compose-awesome?tab=readme-ov-file">
+    Jetpack compose documentation
+</a>
+</br></br>
+<a href="https://github.com/Foso/Jetpack-Compose-Playground">
+    Jetpack Compose Playground
+</a>
+</br></br>
+<a href="https://github.com/catalinghita8/android-compose-mvvm-foodies">
+    Foodies - Modern Android Architecture
+</a>
+</br></br>
+<a href="https://github.com/skydoves/DisneyCompose">
+    DisneyCompose
+</a>
+</br></br>
+<a href="https://github.com/GetStream/whatsApp-clone-compose">
+    Whatsapp clone
+</a>
+</br></br>
+<a href="https://developer.android.com/develop/ui/compose/documentation">
+    Developers Documentation Kotlin Compose
+</a>
+</br></br>
+<a href="https://foso.github.io/Jetpack-Compose-Playground/">
+    Jetpack Compose Playground
+</a>
+</br></br>
+<a href="https://github.com/Foso/Jetpack-Compose-Playground/tree/master">
+    Jetpack Compose Playground
+</a>
+</br></br>
+
