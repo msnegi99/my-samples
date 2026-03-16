@@ -165,3 +165,11 @@ Security and Privacy Changes in Android 11
     Programming Simplyfied by jayant
 </a>
 </br></br>
+<a href="https://www.youtube.com/watch?v=zrGvOf2RlRE">
+    Navigation Framework with BackStack
+</a>
+</br></br>
+<a href="https://www.youtube.com/watch?v=vuxfr8tsDsU">
+    Scaffold (TopAppBar, BottomBar & FAB) - Android Jetpack Compose 12
+</a>
+</br></br>

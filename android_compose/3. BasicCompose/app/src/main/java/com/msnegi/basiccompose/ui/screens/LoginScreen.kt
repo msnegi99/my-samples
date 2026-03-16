@@ -13,8 +13,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.text.input.VisualTransformation
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.msnegi.basiccompose.HomeActivity
+import com.msnegi.basiccompose.ui.theme.BasicComposeTheme
 
 @Composable
 fun LoginScreen(
@@ -95,3 +97,11 @@ fun Context.findActivity(): ComponentActivity? =
         is ContextWrapper -> baseContext.findActivity()
         else -> null
     }
+
+@Preview(showBackground = true)
+@Composable
+fun LoginScreenPreview() {
+    BasicComposeTheme {
+        LoginScreen()
+    }
+}
