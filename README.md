@@ -197,3 +197,7 @@ Security and Privacy Changes in Android 11
     awesome JetpackCompose libraries
 </a>
 </br>
+<a href="https://www.youtube.com/watch?v=YChaBzMG5Fc">
+    Implementing Type-Safe Navigation - Android Jetpack Compose 10
+</a>
+</br>
