@@ -201,3 +201,16 @@ Security and Privacy Changes in Android 11
     Implementing Type-Safe Navigation - Android Jetpack Compose 10
 </a>
 </br>
+<a href="https://www.youtube.com/watch?v=S6oJgF_J9m4&list=PLfuE3hOAeWhYXyG_esDfW3q49LweGQ3mC">
+    Lambdas
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=cPJQIwu5z_4">
+    Higher Order Functions
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=x4Gum3swgqM">
+    inline, crossinline, noinline, reified, and where Keywords
+</a>
+</br>
+
