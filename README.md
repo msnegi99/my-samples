@@ -213,4 +213,7 @@ Security and Privacy Changes in Android 11
     inline, crossinline, noinline, reified, and where Keywords
 </a>
 </br>
-
+<a href="https://www.youtube.com/watch?v=AjXTexDjOBA">
+    REST APIs are Dead! - GraphQL
+</a>
+</br>
