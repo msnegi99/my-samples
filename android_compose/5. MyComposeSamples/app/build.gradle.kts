@@ -81,6 +81,10 @@ dependencies {
     implementation(libs.kotlinx.collections.immutable)
     implementation("io.coil-kt.coil3:coil-compose:3.4.0")
     implementation("io.coil-kt.coil3:coil-compose-core:3.4.0")
+    implementation(libs.androidx.ui)
+    implementation(libs.androidx.material3)
+
+    implementation("com.github.bumptech.glide:compose:1.0.0-beta08")
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

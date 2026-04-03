@@ -14,6 +14,8 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Add
 import androidx.compose.material.icons.filled.Home
@@ -211,7 +213,8 @@ fun DashboardPreview(innerPadding: PaddingValues, navController: NavController) 
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .padding(innerPadding),
+            .padding(innerPadding)
+            .verticalScroll(rememberScrollState()),
         verticalArrangement = Arrangement.Top,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
@@ -246,6 +249,62 @@ fun DashboardPreview(innerPadding: PaddingValues, navController: NavController) 
             text = "Text Screen",
             modifier = Modifier.fillMaxWidth().height(50.dp),
             onClick = { navController.navigate("TextScreen") }
+        )
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        CustomButtonWithModifier(
+            text = "InputText Screen",
+            modifier = Modifier.fillMaxWidth().height(50.dp),
+            onClick = { navController.navigate("InputTextScreen") }
+        )
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        CustomButtonWithModifier(
+            text = "Checkbox Screen",
+            modifier = Modifier.fillMaxWidth().height(50.dp),
+            onClick = { navController.navigate("CheckboxScreen") }
+        )
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        CustomButtonWithModifier(
+            text = "RadioGroup Screen",
+            modifier = Modifier.fillMaxWidth().height(50.dp),
+            onClick = { navController.navigate("RadioGroupScreen") }
+        )
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        CustomButtonWithModifier(
+            text = "Dropdown Screen",
+            modifier = Modifier.fillMaxWidth().height(50.dp),
+            onClick = { navController.navigate("DropdownScreen") }
+        )
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        CustomButtonWithModifier(
+            text = "DatePicker Screen",
+            modifier = Modifier.fillMaxWidth().height(50.dp),
+            onClick = { navController.navigate("DatePickerScreen") }
+        )
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        CustomButtonWithModifier(
+            text = "TimePicker Screen",
+            modifier = Modifier.fillMaxWidth().height(50.dp),
+            onClick = { navController.navigate("TimePickerScreen") }
+        )
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        CustomButtonWithModifier(
+            text = "Image Screen",
+            modifier = Modifier.fillMaxWidth().height(50.dp),
+            onClick = { navController.navigate("ImageScreen") }
         )
 
     }

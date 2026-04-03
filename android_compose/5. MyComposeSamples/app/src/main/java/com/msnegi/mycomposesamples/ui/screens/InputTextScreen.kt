@@ -18,11 +18,11 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.navigation.NavController
-import com.msnegi.mycomposesamples.ui.components.TextDemo
+import com.msnegi.mycomposesamples.ui.components.TextInputs
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun TextScreen(
+fun InputTextScreen(
     navController: NavController
 ) {
     Scaffold(
@@ -34,7 +34,7 @@ fun TextScreen(
                     navigationIconContentColor = MaterialTheme.colorScheme.secondary,
                     actionIconContentColor = MaterialTheme.colorScheme.secondary
                 ),
-                title = { Text("Text Samples") },
+                title = { Text("InputText Samples") },
                 navigationIcon = {
                     IconButton(onClick = { navController.popBackStack() }) {
                         Icon(
@@ -53,9 +53,7 @@ fun TextScreen(
                 .background(Color.LightGray)
         ){
 
-            Text(text = "This is a Text component built using Jetpack Compose.")
-
-            TextDemo()
+            TextInputs()
 
         }
     }
