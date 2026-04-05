@@ -9,6 +9,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
+import com.msnegi.basiccompose.ui.screens.DetailScreen
+import com.msnegi.basiccompose.ui.screens.ForgotScreen
 import com.msnegi.basiccompose.ui.screens.HomeScreen
 import com.msnegi.basiccompose.ui.screens.LoginScreen
 import com.msnegi.basiccompose.ui.screens.ProfileScreen
@@ -16,8 +18,7 @@ import com.msnegi.basiccompose.ui.screens.RegistrationScreen
 
 @RequiresApi(Build.VERSION_CODES.VANILLA_ICE_CREAM)
 @Composable
-fun AppNavigation(modifier: Modifier = Modifier,
-                  startDestination: String,) {
+fun AppNavigation(startDestination: String,) {
 
     val navController = rememberNavController()
 
@@ -26,20 +27,34 @@ fun AppNavigation(modifier: Modifier = Modifier,
         startDestination = startDestination,
     ){
         composable(route = "home") {
-            HomeScreen()
+            HomeScreen(navController)
         }
         composable(route = "login") {
-            LoginScreen()
+            LoginScreen(navController)
         }
         composable(route = "profile/{email}", arguments = listOf(navArgument("email"){
             type = NavType.StringType
-        })) {
-            ProfileScreen{
-                navController.navigate("Login")
-            }
+        })) {backStackEntry ->
+            val email = backStackEntry.arguments?.getString("email")
+            ProfileScreen(
+                email = email ?: "No email",
+                onClick = {
+                    navController.popBackStack()
+                }
+            )
+        }
+        composable(route = "forgot") {
+            ForgotScreen(navController)
         }
         composable(route = "registration") {
-            RegistrationScreen()
+            RegistrationScreen(navController)
         }
+        composable(route = "detailsrc/{value}",  arguments = listOf(navArgument("value"){
+            type = NavType.StringType
+        })) { backStackEntry ->
+            val value = backStackEntry.arguments?.getString("value")
+            DetailScreen(navController, value)
+        }
+
     }
 }

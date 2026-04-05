@@ -217,3 +217,7 @@ Security and Privacy Changes in Android 11
     REST APIs are Dead! - GraphQL
 </a>
 </br>
+<a href="https://www.youtube.com/watch?v=PB-hZVTScUg&list=PLWz5rJ2EKKc91i2QT8qfrfKgLNlJiG1z7">
+    Introduction to MAD Skills
+</a>
+</br>

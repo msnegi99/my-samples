@@ -26,7 +26,7 @@ import com.msnegi.basiccompose.R
 
 
 @Composable
-fun ProfileScreen(onClick: (email:String)->Unit) {
+fun ProfileScreen(onClick: (email: String) -> Unit, email: String) {
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -53,7 +53,7 @@ fun ProfileScreen(onClick: (email:String)->Unit) {
         Spacer(modifier = Modifier.height(24.dp))
 
         // Action Buttons or Editable Fields
-        ProfileInfoField(label = "Email", value = "john.doe@example.com")
+        ProfileInfoField(label = "Email", value = "$email")
         ProfileInfoField(label = "Location", value = "New York, USA")
 
         Spacer(modifier = Modifier.weight(1f))

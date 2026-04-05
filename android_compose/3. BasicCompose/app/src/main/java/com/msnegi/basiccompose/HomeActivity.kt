@@ -29,6 +29,8 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.material3.TopAppBarDefaults
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.tooling.ComposeToolingApi
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -43,127 +45,18 @@ class HomeActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             BasicComposeTheme {
-                /*Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    MyTextView(
-                        data1 = "Android",
-                        modifier = Modifier.padding(innerPadding)
-                    )
-                }*/
-                Scaffold(
-                    topBar = {
-                        TopAppBar(
-                            colors = TopAppBarDefaults.topAppBarColors(
-                                containerColor = MaterialTheme.colorScheme.primaryContainer,
-                                titleContentColor = MaterialTheme.colorScheme.primary,
-                                navigationIconContentColor = MaterialTheme.colorScheme.secondary,
-                                actionIconContentColor = MaterialTheme.colorScheme.secondary
-                            ),
-                            navigationIcon = {
-                                IconButton(onClick = {}) {
-                                    Icon(Icons.Filled.Menu, "menu")
-                                }
-                            },
-                            title = {
-                                Text("Small Top App Bar")
-                            },
-                            actions = {
-                                IconButton(onClick = { /* do something */ }) {
-                                    Icon(
-                                        imageVector = Icons.Filled.Home,
-                                        contentDescription = "Localized description"
-                                    )
-                                }
-                                IconButton(onClick = { /* do something */ }) {
-                                    Icon(
-                                        imageVector = Icons.Filled.Search,
-                                        contentDescription = "Localized description"
-                                    )
-                                }
-                                IconButton(onClick = { /* do something */ }) {
-                                    Icon(
-                                        imageVector = Icons.Filled.MoreVert,
-                                        contentDescription = "Localized description"
-                                    )
-                                }
-                            },
-                        )
-                    },
-                    bottomBar = {
-                        BottomAppBar(
-                            containerColor = Color.LightGray.copy(alpha = 0.2f),
-                            contentColor = Color.Blue
-                        ) {
-
-                            Row(
-                                modifier = Modifier.fillMaxWidth(),
-                                horizontalArrangement = Arrangement.SpaceAround,
-                                verticalAlignment = Alignment.CenterVertically
-                            ) {
-
-                                IconButton(
-                                    onClick = {},
-                                    modifier = Modifier.size(48.dp)
-                                ) {
-                                    Icon(
-                                        imageVector = Icons.Default.Home,
-                                        contentDescription = "Home",
-                                        modifier = Modifier.size(30.dp)
-                                    )
-                                }
-
-                                IconButton(
-                                    onClick = {},
-                                    modifier = Modifier.size(48.dp)
-                                ) {
-                                    Icon(
-                                        imageVector = Icons.Default.Search,
-                                        contentDescription = "Search",
-                                        modifier = Modifier.size(30.dp)
-                                    )
-                                }
-
-                                IconButton(
-                                    onClick = {},
-                                    modifier = Modifier.size(48.dp)
-                                ) {
-                                    Icon(
-                                        imageVector = Icons.Default.Notifications,
-                                        contentDescription = "Notifications",
-                                        modifier = Modifier.size(30.dp)
-                                    )
-                                }
-
-                                IconButton(
-                                    onClick = {},
-                                    modifier = Modifier.size(48.dp)
-                                ) {
-                                    Icon(
-                                        imageVector = Icons.Default.Person,
-                                        contentDescription = "Profile",
-                                        modifier = Modifier.size(30.dp)
-                                    )
-                                }
-
-                            }
-
-                        }
-                    },
-                    floatingActionButton = {
-                        FloatingActionButton(onClick = {}) {
-                            Icon(imageVector = Icons.Default.Add, contentDescription = "")
-                        }
-                    },
-                ) { innerPadding ->
-                    //ScrollContent(innerPadding)
-                    /*MyTextView(
-                        data1 = "Android",
-                        modifier = Modifier.padding(innerPadding)
-                    )*/
-                    AppNavigation(modifier = Modifier.padding(innerPadding),"home")
-                    //HomeScreen(navigateToProfile = {})
-                    //AppNavigation(modifier = Modifier.padding(innerPadding))
-                }
+                //ScrollContent(innerPadding)
+                /*MyTextView(
+                    data1 = "Android",
+                    modifier = Modifier.padding(innerPadding)
+                )*/
+                AppNavigation("home")
+                //AppNavigation(modifier = Modifier.padding(16.dp),"home")
+                //AppNavigation(modifier = Modifier.padding(innerPadding),"detailsrc/msnegi@gmail.com")
+                //HomeScreen(navigateToProfile = {})
+                //AppNavigation(modifier = Modifier.padding(innerPadding))
             }
         }
     }
+
 }
