@@ -221,3 +221,8 @@ Security and Privacy Changes in Android 11
     Introduction to MAD Skills
 </a>
 </br>
+<a href="https://www.youtube.com/watch?v=zdCrYONv-ec">
+    Jetpack Compose State Concept
+</a>
+</br>
+
