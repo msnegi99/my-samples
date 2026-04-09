@@ -17,6 +17,7 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Add
 import androidx.compose.material.icons.filled.ArrowBack
+import androidx.compose.material.icons.filled.Check
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Menu
 import androidx.compose.material.icons.filled.MoreVert
@@ -26,8 +27,11 @@ import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.BottomAppBar
 import androidx.compose.material3.Button
+import androidx.compose.material3.DropdownMenu
+import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.FloatingActionButton
+import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.IconButtonDefaults
@@ -50,7 +54,7 @@ import androidx.compose.material3.TopAppBar
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.core.app.ActivityCompat
-import com.msnegi.basiccompose.R
+import com.msnegi.basiccompose.AppNavigation
 
 @OptIn(ExperimentalMaterial3Api::class)
 @RequiresApi(Build.VERSION_CODES.VANILLA_ICE_CREAM)
@@ -75,6 +79,10 @@ fun HomeScreen(navController: NavController)
                     Text("Small Top App Bar")
                 },
                 actions = {
+                    var isExpanded by remember{
+                        mutableStateOf(false)
+                    }
+
                     IconButton(onClick = { /* do something */ }) {
                         Icon(
                             imageVector = Icons.Filled.Home,
@@ -87,12 +95,37 @@ fun HomeScreen(navController: NavController)
                             contentDescription = "Localized description"
                         )
                     }
-                    IconButton(onClick = { /* do something */ }) {
+                    IconButton(onClick = { isExpanded = true }) {
                         Icon(
                             imageVector = Icons.Filled.MoreVert,
                             contentDescription = "Localized description"
                         )
                     }
+
+                    DropdownMenu(isExpanded, onDismissRequest = {isExpanded = false}) {
+                        DropdownMenuItem(
+                            text = { Text("Option 1") },
+                            onClick = { /* Do something... */ },
+                            trailingIcon = {
+                                Icon(imageVector = Icons.Default.Notifications, contentDescription = "New Item")
+                            }
+                        )
+                        DropdownMenuItem(
+                            text = { Text("Option 2") },
+                            onClick = { /* Do something... */ },
+                            leadingIcon = {
+                                Icon(imageVector = Icons.Default.Home, contentDescription = "New Item")
+                            }
+                        )
+
+                        HorizontalDivider()
+
+                        DropdownMenuItem(
+                            text = { Text("Option 3") },
+                            onClick = { /* Do something... */ }
+                        )
+                    }
+
                 },
             )
         },
@@ -109,7 +142,7 @@ fun HomeScreen(navController: NavController)
                 ) {
 
                     IconButton(
-                        onClick = {},
+                        onClick = { navController.navigate("home") },
                         modifier = Modifier.size(48.dp)
                     ) {
                         Icon(
@@ -120,7 +153,7 @@ fun HomeScreen(navController: NavController)
                     }
 
                     IconButton(
-                        onClick = {},
+                        onClick = { navController.navigate("search") },
                         modifier = Modifier.size(48.dp)
                     ) {
                         Icon(
@@ -131,7 +164,7 @@ fun HomeScreen(navController: NavController)
                     }
 
                     IconButton(
-                        onClick = {},
+                        onClick = { navController.navigate("notification") },
                         modifier = Modifier.size(48.dp)
                     ) {
                         Icon(
@@ -142,7 +175,7 @@ fun HomeScreen(navController: NavController)
                     }
 
                     IconButton(
-                        onClick = {},
+                        onClick = { navController.navigate("profile/msnegi@gmail.com") },
                         modifier = Modifier.size(48.dp)
                     ) {
                         Icon(

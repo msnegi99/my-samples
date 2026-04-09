@@ -3,17 +3,18 @@ package com.msnegi.basiccompose
 import android.os.Build
 import androidx.annotation.RequiresApi
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.Modifier
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
+import com.msnegi.basiccompose.ui.bottomnav.NotificationScreen
 import com.msnegi.basiccompose.ui.screens.DetailScreen
 import com.msnegi.basiccompose.ui.screens.ForgotScreen
 import com.msnegi.basiccompose.ui.screens.HomeScreen
 import com.msnegi.basiccompose.ui.screens.LoginScreen
-import com.msnegi.basiccompose.ui.screens.ProfileScreen
+import com.msnegi.basiccompose.ui.bottomnav.ProfileScreen
+import com.msnegi.basiccompose.ui.bottomnav.SearchScreen
 import com.msnegi.basiccompose.ui.screens.RegistrationScreen
 
 @RequiresApi(Build.VERSION_CODES.VANILLA_ICE_CREAM)
@@ -28,6 +29,12 @@ fun AppNavigation(startDestination: String,) {
     ){
         composable(route = "home") {
             HomeScreen(navController)
+        }
+        composable(route = "search") {
+            SearchScreen(navController)
+        }
+        composable(route = "notification") {
+            NotificationScreen(navController)
         }
         composable(route = "login") {
             LoginScreen(navController)

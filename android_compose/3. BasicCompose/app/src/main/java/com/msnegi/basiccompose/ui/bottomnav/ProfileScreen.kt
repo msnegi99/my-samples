@@ -1,4 +1,4 @@
-package com.msnegi.basiccompose.ui.screens
+package com.msnegi.basiccompose.ui.bottomnav
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
