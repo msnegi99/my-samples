@@ -225,4 +225,11 @@ Security and Privacy Changes in Android 11
     Jetpack Compose State Concept
 </a>
 </br>
-
+<a href="https://www.youtube.com/watch?v=ONmjFu3-3go">
+    Learn to create CI / CD pipeline for Android using Jenkins
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=Fh4UyfqeB4Y&t=130s">
+    How to Set Up CI CD for Android Using GitHub Actions
+</a>
+</br>
