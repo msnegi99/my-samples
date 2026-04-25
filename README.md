@@ -233,3 +233,11 @@ Security and Privacy Changes in Android 11
     How to Set Up CI CD for Android Using GitHub Actions
 </a>
 </br>
+<a href="https://www.youtube.com/watch?v=weDGgH1_wvk">
+    Sealed classes in Kotlin
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=NwGLqGsu3YM&list=PL0pXjGnY7PORAoIX2q7YG2sotapCp4hyl&index=2">
+    Compose Multiplatform Full Course 2025
+</a>
+</br>
