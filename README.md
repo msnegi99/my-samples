@@ -241,3 +241,15 @@ Security and Privacy Changes in Android 11
     Compose Multiplatform Full Course 2025
 </a>
 </br>
+<a href="https://www.youtube.com/watch?v=byOmrmXG4yQ">
+    Convert Figma Designs to Jetpack Compose Code With This FREE Plugin
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=NuuMC4mmzzQ&t=10s">
+	Kotlin Collections | Construction of List, Set and Maps
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=cNLL8IotnHc&t=83s">
+	Build a Generative AI powered Android app with Jetpack Compose
+</a>
+</br>
