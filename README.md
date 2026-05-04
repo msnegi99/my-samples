@@ -253,3 +253,19 @@ Security and Privacy Changes in Android 11
 	Build a Generative AI powered Android app with Jetpack Compose
 </a>
 </br>
+<a href="https://www.youtube.com/watch?v=PnKDc3iJhMk">
+	Boost Android Apps with C/C++: Mastering NDK & JNI - Part 1
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=Q7z54yah03s&list=PL1b73-6UjePAGw5BsVvHzPXTHTWhh6cXi&index=3">
+	Exploring Material Design 3 Components | Jetpack Compose
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=dBxxDGPz1L8">
+	Android Custom Dialogs in Jetpack Compose
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=t3ZonTbwzAs&list=PLRKyZvuMYSINkJXNAdJwZofK-1WvFeyqO">
+	Jetpack Compose - MVVM Pattern, Navigation, HILT - Introduction
+</a>
+</br>
