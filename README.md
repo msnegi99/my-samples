@@ -274,3 +274,15 @@ Security and Privacy Changes in Android 11
 	Jetpack Compose - MVVM Pattern, Navigation, HILT - Introduction
 </a>
 </br>
+<a href="https://github.com/jetpack-compose/jetpack-compose-awesome?tab=readme-ov-file">
+	Github - Jetpack compose resources
+</a>
+</br>
+<a href="https://github.com/android/compose-samples">
+	Jetpack compose official samples
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=2MTh4CoZLOY">
+	JIRA Software tutorial
+</a>
+</br>
