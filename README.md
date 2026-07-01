@@ -286,3 +286,31 @@ Security and Privacy Changes in Android 11
 	JIRA Software tutorial
 </a>
 </br>
+<b>LIST OF  AI Tools</b>
+<a href="https://chatgpt.com/">
+	Chat GPT AI
+</a>
+</br>
+<a href="https://gemini.google.com/app">
+	Gemini AI
+</a>
+</br>
+<a href="https://copilot.microsoft.com/">
+	Copilot AI
+</a>
+</br>
+<a href="https://lovable.dev/dashboard">
+	Lovable AI
+</a>
+</br>
+<a href="https://mulerun.com/chat">
+	Mulerun AI (Lovable AI)
+</a>
+</br>
+<a href="https://replit.com/@msnegi98/What-Can">
+	Replit AI
+</a>
+</br>
+
+
+
