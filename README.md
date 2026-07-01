@@ -286,7 +286,7 @@ Security and Privacy Changes in Android 11
 	JIRA Software tutorial
 </a>
 </br>
-<b>LIST OF  AI Tools</b>
+<b>LIST OF  AI Tools</b></br>
 <a href="https://chatgpt.com/">
 	Chat GPT AI
 </a>
