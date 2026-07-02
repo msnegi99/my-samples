@@ -293,6 +293,31 @@
 
 --------------------------------------------------------------------------------------------------------------
 
+<h2><b>Flutter & Dart</b></h2>
+</br>
+<a href="https://www.youtube.com/watch?v=fmPmrJGbb6w&list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB&index=1">
+	Flutter Tutorial for Beginners
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q">
+	Dart Programming for Flutter
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=g9Uk1Xou0m4">
+	Dart & Flutter Asynchronous Tutorial using Future API, Await, Async and Then functions
+</a>
+</br>
+<a href="https://www.youtube.com/@smartherd">
+	Smartherd Channels
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=xke5_yGL0uk">
+	Flutter SQFLITE Example: Complete NoteKeeper App. CRUD Operation in SQLite #4.8
+</a>
+</br>
+</br>
+--------------------------------------------------------------------------------------------------------------
+
 <h2><b>LIST OF  AI Tools</b></h2>
 </br>
 <a href="https://chatgpt.com/">
