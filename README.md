@@ -1,13 +1,11 @@
 # Online Tutorials
-</br>
 <h2><b>Jetpack</b></h2>
 </br>
 <a href="https://www.youtube.com/watch?v=R-X2nM3d2FI&list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2&index=1" style="margin-right: 10px;">
     Jetpack Tutorial 1
 </a>
-</br>
-Security and Privacy Changes in Android 11
-------------------------------------------
+</br></br>
+<b>Security and Privacy Changes in Android 11<b>
 </br>
 <a href="https://www.youtube.com/watch?v=BXF0AMfaU3w&t=1437s">
 1. Scoped Storage</br>
@@ -32,10 +30,7 @@ Security and Privacy Changes in Android 11
 <a href="https://www.geeksforgeeks.org/android/jetpack-architecture-components-in-android/">
     Jetpack Architecture Components in Android
 </a>
-</br>
-Background WorkManager
-----------------------
-</br>
+</br></br>
 <a href="https://www.youtube.com/watch?v=p79pfjDpkyQ">
     Background WorkManager
 </a>
@@ -47,9 +42,9 @@ Background WorkManager
 
 --------------------------------------------------------------------------------------------------------------
 
-
 </br>
-<b>Jetpack Compose</b>
+<h2><b>Jetpack Compose</b></h2>
+</br>
 <a href="https://www.youtube.com/watch?v=zdCrYONv-ec">
     Jetpack Compose State Concept
 </a>
@@ -164,17 +159,11 @@ Background WorkManager
 
 
 </br>
-<b>API's</b>
-</br>
-Dagger 2 Dependency Injection
----------------------------------
+<h2><b>API's</b></h2>
 </br>
 <a href="https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd">
     What is Dependency Injection?
 </a>
-</br>
-Hilt Android Dependency Injection
----------------------------------
 </br>
 <a href="https://www.youtube.com/watch?v=64hHvlR-d4k&list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf">
     Hilt Android Dependency Injection
@@ -183,19 +172,15 @@ Hilt Android Dependency Injection
 <a href="https://www.youtube.com/watch?v=lSRviGNpRpY&list=PL4EnMCc01RC3i81My4kM2Cf9MZOMwOueo&index=3">
     Constructor Injection in dagger hilt
 </a>
-</br>
-Paging-3-Demo
--------------
-</br>
+</br></br>
 <a href="https://www.youtube.com/watch?v=nJovARMajeE">
-    Paging-3-Demo
-</a>
-<a href="https://github.com/CheezyCode/Android-Paging-3-Demo">
-    github sample
+    Paging-3-Demo youtube
 </a>
 </br>
-Android Rx-java
----------------
+<a href="https://github.com/CheezyCode/Android-Paging-3-Demo">
+    github sample Page 3 Demo
+</a>
+</br>
 </br>
 <a href="https://www.youtube.com/watch?v=2HnRBRfbRwI&list=PL4EnMCc01RC2E3ovdq4a1zZswPmvHtNrz">
     Android Rx-java with Retrofit and RecyclerView
@@ -205,10 +190,7 @@ Android Rx-java
 --------------------------------------------------------------------------------------------------------------
 
 </br>
-<b>Kotlin core</b>
-</br>
-Coroutines
-----------
+<h2><b>Kotlin core</b></h2>
 </br>
 <a href="https://www.youtube.com/watch?v=VF2Zz_klRQ8">
     Kotlin Coroutine WithContext & runBlocking Functions
@@ -221,9 +203,6 @@ Coroutines
 <a href="https://www.youtube.com/watch?v=jS5qB9EXfPY">
     ViewModelScope & LifecycleScope in Android Coroutines
 </a>
-</br>
-Kotlin Flows & Channels Introduction
-------------------------------------
 </br>
 <a href="https://www.youtube.com/watch?v=kOpRhtbhftI&list=PLRKyZvuMYSIPJ84lXQSHMn8P-0J8jW5YT">
     Kotlin Flows & Channels Introduction
@@ -249,7 +228,7 @@ Kotlin Flows & Channels Introduction
 --------------------------------------------------------------------------------------------------------------
 
 </br>
-<b>General</b>
+<h2><b>General</b></h2>
 </br>
 <a href="https://www.youtube.com/watch?v=Wb2v85cp4vg">
     What is GraphQL?
@@ -271,9 +250,6 @@ Kotlin Flows & Channels Introduction
     What is Clean Architecture in Android?
 </a>
 </br> 
-Software Design Principles | SOLID Principles
----------------------------------------------
-</br>
 <a href="https://www.youtube.com/watch?v=B9meVIVRD9o&list=PLRKyZvuMYSIPagvPwbpaLdtn7Txw_8O42">
     Software Design Principles | SOLID Principles - Introduction
 </a>
@@ -317,7 +293,8 @@ Software Design Principles | SOLID Principles
 
 --------------------------------------------------------------------------------------------------------------
 
-<b>LIST OF  AI Tools</b></br>
+<h2><b>LIST OF  AI Tools</b></h2>
+</br>
 <a href="https://chatgpt.com/">
 	Chat GPT AI
 </a>
