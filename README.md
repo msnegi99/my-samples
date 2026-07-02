@@ -1,109 +1,11 @@
 # Online Tutorials
-
+</br>
+<h2><b>Jetpack</b></h2>
+</br>
 <a href="https://www.youtube.com/watch?v=R-X2nM3d2FI&list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2&index=1" style="margin-right: 10px;">
     Jetpack Tutorial 1
 </a>
 </br>
-<a href="https://www.youtube.com/watch?v=7iHl71nt49o">
-    How to Design APIs Like a Senior Engineer (REST, GraphQL, Auth, Security)
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=9yre-M1XwVw&list=PLRKyZvuMYSIMKOSCLYPVAtqLGqQa0JtU5">
-    Android Unit Testing
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=8q5qI3Ah9Us&list=PLRKyZvuMYSIO9sadcCwR0DR8UPi9bQlev">
-    Android Jetpack Compose
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=t3ZonTbwzAs&list=PLRKyZvuMYSINkJXNAdJwZofK-1WvFeyqO">
-    Jetpack Compose - MVVM Pattern, Navigation, HILT
-</a>
-</br>
-<a href="https://github.com/jetpack-compose/jetpack-compose-awesome?tab=readme-ov-file">
-    Jetpack Compose
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=Wb2v85cp4vg">
-    What is GraphQL?
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=DI751uM21Wc">
-    What is Clean Architecture in Android?
-</a>
-</br></br>
-Coroutines
-----------
-</br>
-<a href="https://www.youtube.com/watch?v=VF2Zz_klRQ8">
-    Kotlin Coroutine WithContext & runBlocking Functions
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=dTqOVsdj0pY">
-    Kotlin Coroutine Builders - Launch vs Async
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=jS5qB9EXfPY">
-    ViewModelScope & LifecycleScope in Android Coroutines
-</a>
-</br>
-Kotlin Flows & Channels Introduction
-------------------------------------
-</br>
-<a href="https://www.youtube.com/watch?v=kOpRhtbhftI&list=PLRKyZvuMYSIPJ84lXQSHMn8P-0J8jW5YT">
-    Kotlin Flows & Channels Introduction
-</a>
-</br>
-Software Design Principles | SOLID Principles
----------------------------------------------
-</br>
-<a href="https://www.youtube.com/watch?v=B9meVIVRD9o&list=PLRKyZvuMYSIPagvPwbpaLdtn7Txw_8O42">
-    Software Design Principles | SOLID Principles - Introduction
-</a>
-</br>
-Dagger 2 Dependency Injection
----------------------------------
-</br>
-<a href="https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd">
-    What is Dependency Injection?
-</a>
-</br>
-Hilt Android Dependency Injection
----------------------------------
-</br>
-<a href="https://www.youtube.com/watch?v=64hHvlR-d4k&list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf">
-    Hilt Android Dependency Injection
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=lSRviGNpRpY&list=PL4EnMCc01RC3i81My4kM2Cf9MZOMwOueo&index=3">
-    Constructor Injection in dagger hilt
-</a>
-</br>
-
-Paging-3-Demo
--------------
-</br>
-<a href="https://www.youtube.com/watch?v=nJovARMajeE">
-    Paging-3-Demo
-</a>
-<a href="https://github.com/CheezyCode/Android-Paging-3-Demo">
-    github sample
-</a>
-</br>
-Android Rx-java
----------------
-</br>
-<a href="https://www.youtube.com/watch?v=2HnRBRfbRwI&list=PL4EnMCc01RC2E3ovdq4a1zZswPmvHtNrz">
-    Android Rx-java with Retrofit and RecyclerView
-</a>
-</br>
-Background WorkManager
-----------------------
-</br>
-<a href="https://www.youtube.com/watch?v=p79pfjDpkyQ">
-    Background WorkManager
-</a>
-</br></br>
 Security and Privacy Changes in Android 11
 ------------------------------------------
 </br>
@@ -121,17 +23,51 @@ Security and Privacy Changes in Android 11
 11. Changes to foreground Service</br>
 12. Biometric API changes and new Identity credential API</br>
 </a>
-</br></br>
+</br>
+<a href="https://www.youtube.com/watch?v=jcO6p5TlcGs">
+    Everything about storage on Android
+</a>
+</br>
+</br>
 <a href="https://www.geeksforgeeks.org/android/jetpack-architecture-components-in-android/">
     Jetpack Architecture Components in Android
 </a>
 </br>
-<a href="https://www.geeksforgeeks.org/android/android-jetpack-compose-tutorial/">
-    Jetpack Compose Tutorial
+Background WorkManager
+----------------------
+</br>
+<a href="https://www.youtube.com/watch?v=p79pfjDpkyQ">
+    Background WorkManager
+</a>
+</br></br>
+<a href="https://www.youtube.com/watch?v=zrGvOf2RlRE">
+    Navigation Framework with BackStack
 </a>
 </br>
-<a href="https://www.youtube.com/watch?v=jcO6p5TlcGs">
-    Everything about storage on Android
+
+--------------------------------------------------------------------------------------------------------------
+
+
+</br>
+<b>Jetpack Compose</b>
+<a href="https://www.youtube.com/watch?v=zdCrYONv-ec">
+    Jetpack Compose State Concept
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=t3ZonTbwzAs&list=PLRKyZvuMYSINkJXNAdJwZofK-1WvFeyqO">
+    Jetpack Compose - MVVM Pattern, Navigation, HILT
+</a>
+</br>
+<a href="https://github.com/jetpack-compose/jetpack-compose-awesome?tab=readme-ov-file">
+    Jetpack Compose
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=8q5qI3Ah9Us&list=PLRKyZvuMYSIO9sadcCwR0DR8UPi9bQlev">
+    Android Jetpack Compose
+</a>
+</br>
+<a href="https://www.geeksforgeeks.org/android/android-jetpack-compose-tutorial/">
+    Jetpack Compose Tutorial
 </a>
 </br>
 <a href="https://github.com/jetpack-compose/jetpack-compose-awesome?tab=readme-ov-file">
@@ -139,7 +75,11 @@ Security and Privacy Changes in Android 11
 </a>
 </br>
 <a href="https://github.com/Foso/Jetpack-Compose-Playground">
-    Jetpack Compose Playground
+    Jetpack Compose Playground 1
+</a>
+</br>
+<a href="https://devlibrary.withgoogle.com/products/android/repos/Foso-Jetpack-Compose-Playground">
+    Jetpack Compose Playground 2
 </a>
 </br>
 <a href="https://github.com/catalinghita8/android-compose-mvvm-foodies">
@@ -166,24 +106,8 @@ Security and Privacy Changes in Android 11
     Jetpack Compose Playground
 </a>
 </br>
-<a href="https://www.youtube.com/@ProgrammingSimplified0/videos">
-    Programming Simplyfied by jayant
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=zrGvOf2RlRE">
-    Navigation Framework with BackStack
-</a>
-</br>
 <a href="https://www.youtube.com/watch?v=vuxfr8tsDsU">
     Scaffold (TopAppBar, BottomBar & FAB) - Android Jetpack Compose 12
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=DI751uM21Wc&list=PLUhfM8afLE_PSHXYpRrgs3V6AmCqRAexa&index=7">
-    Clean Architecture
-</a>
-</br>
-<a href="https://devlibrary.withgoogle.com/products/android/repos/Foso-Jetpack-Compose-Playground">
-    Jetpack Compose Playground
 </a>
 </br>
 <a href="https://www.jetpackcompose.app/compose-catalog">
@@ -206,60 +130,12 @@ Security and Privacy Changes in Android 11
     Implementing Type-Safe Navigation - Android Jetpack Compose 10
 </a>
 </br>
-<a href="https://www.youtube.com/watch?v=S6oJgF_J9m4&list=PLfuE3hOAeWhYXyG_esDfW3q49LweGQ3mC">
-    Lambdas
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=cPJQIwu5z_4">
-    Higher Order Functions
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=x4Gum3swgqM">
-    inline, crossinline, noinline, reified, and where Keywords
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=AjXTexDjOBA">
-    REST APIs are Dead! - GraphQL
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=PB-hZVTScUg&list=PLWz5rJ2EKKc91i2QT8qfrfKgLNlJiG1z7">
-    Introduction to MAD Skills
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=zdCrYONv-ec">
-    Jetpack Compose State Concept
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=ONmjFu3-3go">
-    Learn to create CI / CD pipeline for Android using Jenkins
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=Fh4UyfqeB4Y&t=130s">
-    How to Set Up CI CD for Android Using GitHub Actions
-</a>
-</br>
 <a href="https://www.youtube.com/watch?v=weDGgH1_wvk">
     Sealed classes in Kotlin
 </a>
 </br>
-<a href="https://www.youtube.com/watch?v=NwGLqGsu3YM&list=PL0pXjGnY7PORAoIX2q7YG2sotapCp4hyl&index=2">
-    Compose Multiplatform Full Course 2025
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=byOmrmXG4yQ">
-    Convert Figma Designs to Jetpack Compose Code With This FREE Plugin
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=NuuMC4mmzzQ&t=10s">
-	Kotlin Collections | Construction of List, Set and Maps
-</a>
-</br>
 <a href="https://www.youtube.com/watch?v=cNLL8IotnHc&t=83s">
 	Build a Generative AI powered Android app with Jetpack Compose
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=PnKDc3iJhMk">
-	Boost Android Apps with C/C++: Mastering NDK & JNI - Part 1
 </a>
 </br>
 <a href="https://www.youtube.com/watch?v=Q7z54yah03s&list=PL1b73-6UjePAGw5BsVvHzPXTHTWhh6cXi&index=3">
@@ -282,10 +158,165 @@ Security and Privacy Changes in Android 11
 	Jetpack compose official samples
 </a>
 </br>
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+</br>
+<b>API's</b>
+</br>
+Dagger 2 Dependency Injection
+---------------------------------
+</br>
+<a href="https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd">
+    What is Dependency Injection?
+</a>
+</br>
+Hilt Android Dependency Injection
+---------------------------------
+</br>
+<a href="https://www.youtube.com/watch?v=64hHvlR-d4k&list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf">
+    Hilt Android Dependency Injection
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=lSRviGNpRpY&list=PL4EnMCc01RC3i81My4kM2Cf9MZOMwOueo&index=3">
+    Constructor Injection in dagger hilt
+</a>
+</br>
+Paging-3-Demo
+-------------
+</br>
+<a href="https://www.youtube.com/watch?v=nJovARMajeE">
+    Paging-3-Demo
+</a>
+<a href="https://github.com/CheezyCode/Android-Paging-3-Demo">
+    github sample
+</a>
+</br>
+Android Rx-java
+---------------
+</br>
+<a href="https://www.youtube.com/watch?v=2HnRBRfbRwI&list=PL4EnMCc01RC2E3ovdq4a1zZswPmvHtNrz">
+    Android Rx-java with Retrofit and RecyclerView
+</a>
+</br>
+
+--------------------------------------------------------------------------------------------------------------
+
+</br>
+<b>Kotlin core</b>
+</br>
+Coroutines
+----------
+</br>
+<a href="https://www.youtube.com/watch?v=VF2Zz_klRQ8">
+    Kotlin Coroutine WithContext & runBlocking Functions
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=dTqOVsdj0pY">
+    Kotlin Coroutine Builders - Launch vs Async
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=jS5qB9EXfPY">
+    ViewModelScope & LifecycleScope in Android Coroutines
+</a>
+</br>
+Kotlin Flows & Channels Introduction
+------------------------------------
+</br>
+<a href="https://www.youtube.com/watch?v=kOpRhtbhftI&list=PLRKyZvuMYSIPJ84lXQSHMn8P-0J8jW5YT">
+    Kotlin Flows & Channels Introduction
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=S6oJgF_J9m4&list=PLfuE3hOAeWhYXyG_esDfW3q49LweGQ3mC">
+    Lambdas
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=cPJQIwu5z_4">
+    Higher Order Functions
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=x4Gum3swgqM">
+    inline, crossinline, noinline, reified, and where Keywords
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=NuuMC4mmzzQ&t=10s">
+	Kotlin Collections | Construction of List, Set and Maps
+</a>
+</br>
+
+--------------------------------------------------------------------------------------------------------------
+
+</br>
+<b>General</b>
+</br>
+<a href="https://www.youtube.com/watch?v=Wb2v85cp4vg">
+    What is GraphQL?
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=AjXTexDjOBA">
+    REST APIs are Dead! - GraphQL
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=7iHl71nt49o">
+    How to Design APIs Like a Senior Engineer (REST, GraphQL, Auth, Security)
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=9yre-M1XwVw&list=PLRKyZvuMYSIMKOSCLYPVAtqLGqQa0JtU5">
+    Android Unit Testing
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=DI751uM21Wc">
+    What is Clean Architecture in Android?
+</a>
+</br> 
+Software Design Principles | SOLID Principles
+---------------------------------------------
+</br>
+<a href="https://www.youtube.com/watch?v=B9meVIVRD9o&list=PLRKyZvuMYSIPagvPwbpaLdtn7Txw_8O42">
+    Software Design Principles | SOLID Principles - Introduction
+</a>
+</br>
+<a href="https://www.youtube.com/@ProgrammingSimplified0/videos">
+    Programming Simplyfied by jayant (all samples)
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=DI751uM21Wc&list=PLUhfM8afLE_PSHXYpRrgs3V6AmCqRAexa&index=7">
+    Clean Architecture
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=PB-hZVTScUg&list=PLWz5rJ2EKKc91i2QT8qfrfKgLNlJiG1z7">
+    Introduction to MAD Skills
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=ONmjFu3-3go">
+    Learn to create CI / CD pipeline for Android using Jenkins
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=Fh4UyfqeB4Y&t=130s">
+    How to Set Up CI CD for Android Using GitHub Actions
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=NwGLqGsu3YM&list=PL0pXjGnY7PORAoIX2q7YG2sotapCp4hyl&index=2">
+    Compose Multiplatform Full Course 2025
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=byOmrmXG4yQ">
+    Convert Figma Designs to Jetpack Compose Code With This FREE Plugin
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=PnKDc3iJhMk">
+	Boost Android Apps with C/C++: Mastering NDK & JNI - Part 1
+</a>
+</br>
 <a href="https://www.youtube.com/watch?v=2MTh4CoZLOY">
 	JIRA Software tutorial
 </a>
 </br>
+
+--------------------------------------------------------------------------------------------------------------
+
 <b>LIST OF  AI Tools</b></br>
 <a href="https://chatgpt.com/">
 	Chat GPT AI
