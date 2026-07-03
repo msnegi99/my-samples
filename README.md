@@ -159,7 +159,7 @@
 
 
 </br>
-<h2><b>API's</b></h2>
+<h2><b>Other API's</b></h2>
 </br>
 <a href="https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd">
     What is Dependency Injection?
@@ -222,76 +222,6 @@
 </br>
 <a href="https://www.youtube.com/watch?v=NuuMC4mmzzQ&t=10s">
 	Kotlin Collections | Construction of List, Set and Maps
-</a>
-</br>
-
---------------------------------------------------------------------------------------------------------------
-
-</br>
-<h2><b>General</b></h2>
-</br>
-<a href="https://www.youtube.com/watch?v=Wb2v85cp4vg">
-    What is GraphQL?
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=AjXTexDjOBA">
-    REST APIs are Dead! - GraphQL
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=7iHl71nt49o">
-    How to Design APIs Like a Senior Engineer (REST, GraphQL, Auth, Security)
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=9yre-M1XwVw&list=PLRKyZvuMYSIMKOSCLYPVAtqLGqQa0JtU5">
-    Android Unit Testing
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=DI751uM21Wc">
-    What is Clean Architecture in Android?
-</a>
-</br> 
-<a href="https://www.youtube.com/watch?v=B9meVIVRD9o&list=PLRKyZvuMYSIPagvPwbpaLdtn7Txw_8O42">
-    Software Design Principles | SOLID Principles - Introduction
-</a>
-</br>
-<a href="https://www.youtube.com/@ProgrammingSimplified0/videos">
-    Programming Simplyfied by jayant (all samples)
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=DI751uM21Wc&list=PLUhfM8afLE_PSHXYpRrgs3V6AmCqRAexa&index=7">
-    Clean Architecture
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=PB-hZVTScUg&list=PLWz5rJ2EKKc91i2QT8qfrfKgLNlJiG1z7">
-    Introduction to MAD Skills
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=ONmjFu3-3go">
-    Learn to create CI / CD pipeline for Android using Jenkins
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=Fh4UyfqeB4Y&t=130s">
-    How to Set Up CI CD for Android Using GitHub Actions
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=NwGLqGsu3YM&list=PL0pXjGnY7PORAoIX2q7YG2sotapCp4hyl&index=2">
-    Compose Multiplatform Full Course 2025
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=byOmrmXG4yQ">
-    Convert Figma Designs to Jetpack Compose Code With This FREE Plugin
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=PnKDc3iJhMk">
-	Boost Android Apps with C/C++: Mastering NDK & JNI - Part 1
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=2MTh4CoZLOY">
-	JIRA Software tutorial
-</a>
-</br>
-<a href="https://www.youtube.com/watch?v=FZEPg-8tJgo">
-	Create Resizable 9 Patch Images (png) - Android Studio Tutorial
 </a>
 </br>
 
@@ -375,20 +305,98 @@
 	Emergent AI Tutorial For Beginners 2026
 </a>
 </br>
-
-
-
-
-
-
-
-
+<a href="https://www.youtube.com/watch?v=0N5FW5IwJD4">
+	Android Studio Gemini Update: Full Stack App Build With AI Agent Mode & Vibe Coding (Step-by-Step)
+</a>
 </br>
-
+<a href="https://www.youtube.com/watch?v=EIjVAaDHweY">
+	Build Android App with Claude AI & Android Studio (Full Tutorial)
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=-n5o7xslgWo">
+	Sakana Fugu AI: Build a FULL STACK App Using Google Sheets
+</a>
+</br>
 
 --------------------------------------------------------------------------------------------------------------
+
 </br>
-<h2><b>App Icon Maker</b></h2>
+<h2><b>General</b></h2>
 </br>
-https://icon.kitchen/i/H4sIAAAAAAAAA6tWKkvMKU0tVrKqVkpLd87PyS9SslJSTgMDJR2lJISYWaJxSqqFUq2OUm5-SmkOSE-0UmJeSlF-ZgpQZWZ-MZAsT01Siq0FAI3686NWAAAA
+<a href="https://www.youtube.com/watch?v=Wb2v85cp4vg">
+    What is GraphQL?
+</a>
 </br>
+<a href="https://www.youtube.com/watch?v=AjXTexDjOBA">
+    REST APIs are Dead! - GraphQL
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=7iHl71nt49o">
+    How to Design APIs Like a Senior Engineer (REST, GraphQL, Auth, Security)
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=9yre-M1XwVw&list=PLRKyZvuMYSIMKOSCLYPVAtqLGqQa0JtU5">
+    Android Unit Testing
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=DI751uM21Wc">
+    What is Clean Architecture in Android?
+</a>
+</br> 
+<a href="https://www.youtube.com/watch?v=B9meVIVRD9o&list=PLRKyZvuMYSIPagvPwbpaLdtn7Txw_8O42">
+    Software Design Principles | SOLID Principles - Introduction
+</a>
+</br>
+<a href="https://www.youtube.com/@ProgrammingSimplified0/videos">
+    Programming Simplyfied by jayant (all samples)
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=DI751uM21Wc&list=PLUhfM8afLE_PSHXYpRrgs3V6AmCqRAexa&index=7">
+    Clean Architecture
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=PB-hZVTScUg&list=PLWz5rJ2EKKc91i2QT8qfrfKgLNlJiG1z7">
+    Introduction to MAD Skills
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=ONmjFu3-3go">
+    Learn to create CI / CD pipeline for Android using Jenkins
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=Fh4UyfqeB4Y&t=130s">
+    How to Set Up CI CD for Android Using GitHub Actions
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=NwGLqGsu3YM&list=PL0pXjGnY7PORAoIX2q7YG2sotapCp4hyl&index=2">
+    Compose Multiplatform Full Course 2025
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=uQsyobT2Rv8">
+	Master Figma UI Design in 15 Minutes
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=hJUrt7DnMJo&t=31s">
+	FIGMA Mobile App Design Tutorial
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=byOmrmXG4yQ">
+    Convert Figma Designs to Jetpack Compose Code With This FREE Plugin
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=PnKDc3iJhMk">
+	Boost Android Apps with C/C++: Mastering NDK & JNI - Part 1
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=2MTh4CoZLOY">
+	JIRA Software tutorial
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=FZEPg-8tJgo">
+	Create Resizable 9 Patch Images (png) - Android Studio Tutorial
+</a>
+</br>
+<a href="https://icon.kitchen/i/H4sIAAAAAAAAA6tWKkvMKU0tVrKqVkpLd87PyS9SslJSTgMDJR2lJISYWaJxSqqFUq2OUm5-SmkOSE-0UmJeSlF-ZgpQZWZ-MZAsT01Siq0FAI3686NWAAAA">
+	App Icon Maker
+</a>
+</br>
+
