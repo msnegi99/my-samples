@@ -290,9 +290,14 @@
 	JIRA Software tutorial
 </a>
 </br>
+<a href="https://www.youtube.com/watch?v=FZEPg-8tJgo">
+	Create Resizable 9 Patch Images (png) - Android Studio Tutorial
+</a>
+</br>
+
 
 --------------------------------------------------------------------------------------------------------------
-
+</br>
 <h2><b>Flutter & Dart</b></h2>
 </br>
 <a href="https://www.youtube.com/watch?v=fmPmrJGbb6w&list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB&index=1">
@@ -317,7 +322,7 @@
 </br>
 </br>
 --------------------------------------------------------------------------------------------------------------
-
+</br>
 <h2><b>LIST OF  AI Tools</b></h2>
 </br>
 <a href="https://chatgpt.com/">
@@ -348,5 +353,42 @@
 	Claude AI
 </a>
 </br>
+<a href="https://app.emergent.sh/chat">
+	Emergent AI
+</a>
+</br>
+<a href="https://firefly.adobe.com/generate/image">
+	Adobe Firefly Image Generator
+</a>
+</br>
 
 
+--------------------------------------------------------------------------------------------------------------
+</br>
+<h2><b>AI Tutorials</b></h2>
+</br>
+<a href="https://www.youtube.com/watch?v=r0E669OZX6g">
+	ChatGPT image editing tips | AI image generation  <a href="https://www.youtube.com/@aga_murdoch">Channel - ChatGPT AI Trainning</a>
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=ia7M-lJiTMY">
+	Emergent AI Tutorial For Beginners 2026
+</a>
+</br>
+
+
+
+
+
+
+
+
+</br>
+
+
+--------------------------------------------------------------------------------------------------------------
+</br>
+<h2><b>App Icon Maker</b></h2>
+</br>
+https://icon.kitchen/i/H4sIAAAAAAAAA6tWKkvMKU0tVrKqVkpLd87PyS9SslJSTgMDJR2lJISYWaJxSqqFUq2OUm5-SmkOSE-0UmJeSlF-ZgpQZWZ-MZAsT01Siq0FAI3686NWAAAA
+</br>
