@@ -256,7 +256,7 @@
 <h2><b>LIST OF  AI Tools</b></h2>
 </br>
 <a href="https://chatgpt.com/">
-	Chat GPT AI
+	Chat GPT AI (Open AI)
 </a>
 </br>
 <a href="https://gemini.google.com/app">
@@ -291,6 +291,31 @@
 	Adobe Firefly Image Generator
 </a>
 </br>
+<a href="https://talkingphotos.ai/">
+	Talking Photos (Paid)
+</a>
+</br>
+<a href="https://bolt.new/">
+	Bolt AI
+</a>
+</br>
+<a href="https://llamacoder.together.ai/">
+	LLamaCoder Together AI
+</a>
+</br>
+<a href="https://www.rocket.new/">
+	Rocket AI
+</a>
+</br>
+<a href="https://www.rocket.new/">
+	Cursor AI (Paid)
+</a>
+</br>
+<a href="https://jules.google/">
+	Jules AI 
+</a>
+</br>
+
 
 
 --------------------------------------------------------------------------------------------------------------
@@ -317,6 +342,19 @@
 	Sakana Fugu AI: Build a FULL STACK App Using Google Sheets
 </a>
 </br>
+<a href="https://www.youtube.com/watch?v=EBoatDP3na4">
+	Create a Full Excel Dashboard with One Prompt Using Claude AI (in Just 2 Minutes)
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=P-qvfgioBxM">
+	Create Fully Automated Dashboard in Excel
+</a>
+</br>
+<a href="https://www.youtube.com/watch?v=Ke_RBUy0QRg">
+	Build a Dynamic Customer Dashboard in Excel Using Gemini AI
+</a>
+</br>
+
 
 --------------------------------------------------------------------------------------------------------------
 
