@@ -1,0 +1,58 @@
+package com.msnegi.mycompscreens.ui.screens
+
+import androidx.compose.foundation.Image
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.testTag
+import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.text.style.TextOverflow
+import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
+import com.msnegi.mycompscreens.ui.screens.data.model.Item
+
+@Composable
+fun GridListItem(item: Item, modifier: Modifier = Modifier) {
+  Material3Card(
+    shape = androidx.compose.material.MaterialTheme.shapes.medium,
+    modifier =
+      modifier
+        .width(190.dp)
+        .height(220.dp)
+        .padding(8.dp)
+        .testTag("home_screen_list_item-${item.id}")
+  ) {
+    Column(modifier = Modifier.clickable(onClick = {})) {
+      Image(
+        painter = painterResource(item.imageId),
+        contentScale = ContentScale.Crop,
+        contentDescription = null,
+        modifier = Modifier.height(80.dp).fillMaxWidth()
+      )
+      Column(modifier = Modifier.padding(8.dp)) {
+        Text(
+          text = item.title,
+          style = MaterialTheme.typography.titleMedium.copy(fontSize = 14.sp),
+          maxLines = 4,
+          overflow = TextOverflow.Ellipsis
+        )
+        Text(
+          text = item.subtitle,
+          maxLines = 3,
+          overflow = TextOverflow.Ellipsis,
+          style = MaterialTheme.typography.bodyMedium
+        )
+        Text(text = item.source, style = MaterialTheme.typography.titleSmall)
+      }
+    }
+  }
+}

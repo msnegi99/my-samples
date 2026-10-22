@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/food_menu" android:id="@+id/menu" >
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/food_menu_1"
+                    android:icon="@drawable/ic_favorites"
+                    android:title="@string/food_menu_1" />
+                <item
+                    android:id="@+id/food_menu_2"
+                    android:icon="@drawable/ic_friends"
+                    android:title="@string/food_menu_2" />
+                <item
+                    android:id="@+id/food_menu_3"
+                    android:icon="@drawable/ic_nearby"
+                    android:title="@string/food_menu_3" />
+                <item
+                    android:id="@+id/food_menu_4"
+                    android:icon="@drawable/ic_recents"
+                    android:title="@string/food_menu_4" />
+            </group>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/rate_us"
+            android:checked="false"
+            android:icon="@drawable/ic_restaurants"
+            android:title="@string/rate_us" />
+
+        <item
+            android:id="@+id/logout"
+            android:checked="false"
+            android:icon="@drawable/ic_drafts_black"
+            android:title="@string/logout" />
+
+    </group>
+</menu>
+
+

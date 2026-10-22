@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e6f9fa">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/scanResultTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#E7DAF6"
+            android:layout_margin="@dimen/_20sdp"
+            android:lines="5"
+            android:maxLines="5"
+            android:text="" />
+
+        <Button
+            android:id="@+id/scanbtn"
+            android:text="Start Scan"
+            android:textColor="@color/white"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button" />
+
+    </LinearLayout>
+
+</FrameLayout>

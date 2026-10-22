@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RightNavigationExample</string>
+
+
+    <string name="circles">Circles</string>
+    <string name="family_item">Family</string>
+    <string name="friends_item">Friends</string>
+    <string name="colleagues_item">Colleagues</string>
+
+    <string name="messages">Messages</string>
+    <string name="location_sharing">Location Sharing</string>
+
+    <string name="rate_us">Rate Us</string>
+    <string name="logout">Logout</string>
+
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_option_1">Menu Option 1</string>
+    <string name="menu_option_2">Menu Option 2</string>
+    <string name="menu_option_3">Menu Option 3</string>
+    <string name="menu_option_4">Menu Option 4</string>
+    <string name="menu_option_5">Menu Option 5</string>
+    <string name="menu_option_6">Menu Option 6</string>
+    <string name="menu_option_7">Menu Option 7</string>
+    <string name="menu_option_8">Menu Option 8</string>
+    <string name="menu_option_9">Menu Option 9</string>
+    <string name="menu_option_10">Menu Option 10</string>
+
+</resources>

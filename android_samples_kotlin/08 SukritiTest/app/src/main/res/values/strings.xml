@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sukriti Test</string>
+
+    <string name="btn_title">Submit</string>
+    <string name="allowd_range">Allowed only 0 - 100</string>
+
+    <string name="failded">Failed</string>
+    <string name="average">Average</string>
+    <string name="good">Good</string>
+    <string name="excellent">Excellent</string>
+
+</resources>

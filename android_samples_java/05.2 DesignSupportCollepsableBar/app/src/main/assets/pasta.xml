@@ -1,0 +1,38 @@
+<products>
+	<product>
+		<image>pasta1.png</image>
+		<title>Carbonara</title>
+		<description>Based on eggs, cheese, bacon and black pepper.</description>
+        <price>12.00</price>
+	</product>
+	<product>
+		<image>pasta2.png</image>
+		<title>Fettuccine</title>
+		<description>Made from fettuccine tossed with Parmesan cheese and butter.</description>
+        <price>16.00</price>
+	</product>
+	<product>
+		<image>pasta3.png</image>
+		<title>Macaroni and cheese</title>
+		<description>Consists of cooked macaroni pasta and cheese, most commonly Cheddar cheese.</description>
+        <price>8.00</price>
+	</product>
+	<product>
+		<image>pasta4.png</image>
+		<title>Pasta alla Norma</title>
+		<description>Prepared with tomatoes, fried eggplant, grated ricotta salata cheese, and basil.</description>
+        <price>22.00</price>
+	</product>
+	<product>
+		<image>pasta5.png</image>
+		<title>Pasta salad</title>
+		<description>Prepared with one or more types of pasta, usually chilled.</description>
+        <price>14.00</price>
+	</product>
+	<product>
+		<image>pasta6.png</image>
+		<title>Spaghetti alle</title>
+		<description>with oil, garlic, parsley, and sometimes a splash of white wine.</description>
+        <price>14.00</price>
+	</product>	
+</products>

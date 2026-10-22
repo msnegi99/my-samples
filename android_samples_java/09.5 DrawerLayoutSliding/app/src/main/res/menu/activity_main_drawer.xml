@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/circles" android:id="@+id/menu" >
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/family_item"
+                    android:icon="@drawable/ic_menu_gallery"
+                    android:title="@string/family_item" />
+                <item
+                    android:id="@+id/friends_item"
+                    android:icon="@drawable/ic_menu_slideshow"
+                    android:title="@string/friends_item" />
+                <item
+                    android:id="@+id/colleagues_item"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="@string/colleagues_item" />
+            </group>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/messages"
+            android:checked="false"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/messages" />
+
+        <item
+            android:id="@+id/location_sharing"
+            android:checked="false"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/location_sharing" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/rate_us"
+            android:checked="false"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/rate_us" />
+
+        <item
+            android:id="@+id/logout"
+            android:checked="false"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/logout" />
+    </group>
+
+</menu>

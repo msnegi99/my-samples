@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAnimatedAffects</string>
+    <string name="title_animation_detail">Animation</string>
+    <string name="target">TARGET</string>
+    <string name="imgBehind_description">image to flip to</string>
+    <string name="imgTarget_description">image to animate</string>
+    <string name="imgPlay_description">play button to start animation</string>
+</resources>

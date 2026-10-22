@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleSearch</string>
+
+    <string name="search">Search</string>
+    <string name="image">Image thumbnail</string>
+
+</resources>

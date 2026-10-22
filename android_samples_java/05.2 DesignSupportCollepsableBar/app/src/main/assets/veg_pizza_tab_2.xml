@@ -1,0 +1,32 @@
+<products>
+	<product>
+		<image>pizza7.png</image>
+		<title>The Family Jewels</title>
+		<description>including the Jewels, with mozz, Parm, heirloom tomatoes, garlic, basil, and prosciutto bread crumbs.</description>
+        <price>12.00</price>
+	</product>
+	<product>
+		<image>pizza8.png</image>
+		<title>Mushroom Pizza</title>
+		<description>Yellow or White Onions, Mushrooms, Tomatoes, Tomato Juice, Salt, Calcium Chloride, Citric Acid.</description>
+        <price>16.00</price>
+	</product>
+	<product>
+		<image>pizza9.png</image>
+		<title>Wing Sauce Hot</title>
+		<description>carefully layered on top after it comes out of the oven.</description>
+        <price>8.00</price>
+	</product>
+	<product>
+		<image>pizza10.png</image>
+		<title>Prosciutto Pizza</title>
+		<description>Skim Mozzarella Cheese, Modified Food Starch, Nonfat Milk, Whey Protein Concentrate.</description>
+        <price>22.00</price>
+	</product>
+	<product>
+		<image>pizza11.png</image>
+		<title>The Chicago Classic</title>
+		<description> cheese and a whole damn layer of sausage can heal all disputes.</description>
+        <price>14.00</price>
+	</product>
+</products>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyDialogExamples</string>
+    <string name="please_rate_us">Please Rate Us</string>
+    <string name="confirm_deletion">Confirm Deletion</string>
+    <string name="register">Register</string>
+    <string name="empty_categories">Empty Categories</string>
+    <string name="no_internet_available">No Internet Available</string>
+    <string name="ok">Ok</string>
+    <string name="master_pass_cant_empty_msg">Master Password Can not be empty</string>
+    <string name="both_login_confirm_pass_should_be_same">Both login confirm password should be same</string>
+    <string name="both_login_confirm_pass_should_no_be_empty">Both login confirm password should not be empty</string>
+    <string name="password_cant_empty">Password not be empty</string>
+
+
+    <string-array name="system">
+        <item>item 1</item>
+        <item>item 2</item>
+    </string-array>
+</resources>

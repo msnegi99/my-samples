@@ -1,0 +1,38 @@
+<products>
+	<product>
+		<image>pizza1.png</image>
+		<title>San Gennaro</title>
+		<description>loaded with savory salsiccia, sweet red pepper, bufala, and cipollines.</description>
+        <price>12.00</price>
+	</product>
+	<product>
+		<image>pizza2.png</image>
+		<title>The Detroiter</title>
+		<description>caramelized with a crunchy layer cheese on the bottom and sides.</description>
+        <price>16.00</price>
+	</product>
+	<product>
+		<image>pizza3.png</image>
+		<title>The Crab Pie</title>
+		<description>with a balanced harmony of cheese, crustacean, and spice.</description>
+        <price>8.00</price>
+	</product>
+	<product>
+		<image>pizza4.png</image>
+		<title>Two Slices</title>
+		<description>Part Skim Mozzarella Cheese, Modified Food Starch, Nonfat Milk, Whey Protein Concentrate.</description>
+        <price>22.00</price>
+	</product>
+	<product>
+		<image>pizza5.png</image>
+		<title>Neapolitan</title>
+		<description>Pepperoncini, Water, Salt, Citric Acid, cheese, wheat floor.</description>
+        <price>14.00</price>
+	</product>
+	<product>
+		<image>pizza6.png</image>
+		<title>Regular Cheese Pie</title>
+		<description>Pepperoncini, Water, Salt, Citric Acid, Vinegar, Sodium Bisulfite, Sodium Benzoate.</description>
+        <price>14.00</price>
+	</product>	
+</products>

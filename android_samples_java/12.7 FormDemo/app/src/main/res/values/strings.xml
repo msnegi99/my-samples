@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Form Demo</string>
+
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="ok">OK</string>
+
+
+</resources>

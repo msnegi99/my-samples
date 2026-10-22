@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToolbarMenuExample</string>
+
+    <string name="assistance">Assistance</string>
+    <string name="manualSync">Manual Sync</string>
+    <string name="log_out">Log Out</string>
+    <string name="version">version</string>
+
+</resources>

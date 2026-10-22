@@ -1,0 +1,632 @@
+{
+  "Data": [
+    {
+      "SpecialisationId": 100,
+      "SpecialisationName": "Internal Medicine",
+      "SpecialisationUrl": "ba8f2e5f-90d7-4991-82fb-2563dc8db90e.png",
+      "DoctorList": [
+        {
+          "DoctorId": 2586,
+          "DoctorName": "Dr. Neha",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 100,
+          "SpecialisationName": "Internal Medicine"
+        },
+        {
+          "DoctorId": 2760,
+          "DoctorName": "Dr. Anurag  Aggarwal",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 100,
+          "SpecialisationName": "Internal Medicine"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 24,
+      "SpecialisationName": "General Surgery",
+      "SpecialisationUrl": "c7923caa-bf9d-458c-98ee-e6ad3e71dd29.png",
+      "DoctorList": [
+        {
+          "DoctorId": 807,
+          "DoctorName": "Dr. Sunil  Kumar",
+          "DoctorPic": "13bd36cd-a594-42e6-a391-517aeef2e1c9.jpeg",
+          "Designation": "Associate Consultant",
+          "SpecialisationId": 24,
+          "SpecialisationName": "General Surgery"
+        },
+        {
+          "DoctorId": 809,
+          "DoctorName": "Dr. Prabal/Dr De/Dr Sunil",
+          "DoctorPic": "c09e5230-8b5e-4840-917d-036a951dce60.jpeg",
+          "Designation": "Department of General and Minimal Access Surgery",
+          "SpecialisationId": 24,
+          "SpecialisationName": "General Surgery"
+        },
+        {
+          "DoctorId": 69,
+          "DoctorName": "Dr. Yoel Dewa Paljor",
+          "DoctorPic": "57f9343a-eeeb-4059-bb31-680f16b4e7bc.jpeg",
+          "Designation": "Sr. Consultant & Head of Department- General and Minimally Invasive Surgery",
+          "SpecialisationId": 24,
+          "SpecialisationName": "General Surgery"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 51,
+      "SpecialisationName": "Urology and Renal Transplant",
+      "SpecialisationUrl": "83b15562-0eb6-420a-9a84-874a33016988.png",
+      "DoctorList": [
+        {
+          "DoctorId": 133,
+          "DoctorName": "Dr. Alok Kumar Jha",
+          "DoctorPic": "a1a0ba87-62ee-465d-990c-1fd56fdc1c48.jpeg",
+          "Designation": "Sr Consultant and HOD Urology",
+          "SpecialisationId": 51,
+          "SpecialisationName": "Urology and Renal Transplant"
+        },
+        {
+          "DoctorId": 2962,
+          "DoctorName": "Dr. Manish Choudhary/Dr Ankur Bhatnagar",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 51,
+          "SpecialisationName": "Urology and Renal Transplant"
+        },
+        {
+          "DoctorId": 2007,
+          "DoctorName": "Dr. Manish Kumar Choudhary",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 51,
+          "SpecialisationName": "Urology and Renal Transplant"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 37,
+      "SpecialisationName": "Orthopaedics",
+      "SpecialisationUrl": "0a398871-8311-498e-b2fd-25c41baca337.png",
+      "DoctorList": [
+        {
+          "DoctorId": 810,
+          "DoctorName": "Dr. Yuvraj/Dr Rakesh/Dr Sumit",
+          "DoctorPic": "c228e11d-dabb-474f-a314-724b7ccd4b89.jpeg",
+          "Designation": "Director - Orthopedics & Joint Replacement",
+          "SpecialisationId": 37,
+          "SpecialisationName": "Orthopaedics"
+        },
+        {
+          "DoctorId": 940,
+          "DoctorName": "Dr. Nipun  Bajaj",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 37,
+          "SpecialisationName": "Orthopaedics"
+        },
+        {
+          "DoctorId": 2826,
+          "DoctorName": "Dr. Pankaj  Tuli",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 37,
+          "SpecialisationName": "Orthopaedics"
+        },
+        {
+          "DoctorId": 2830,
+          "DoctorName": "Dr. Somesh  Virmani",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 37,
+          "SpecialisationName": "Orthopaedics"
+        },
+        {
+          "DoctorId": 808,
+          "DoctorName": "Dr. Sumit  Batra",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 37,
+          "SpecialisationName": "Orthopaedics"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 5,
+      "SpecialisationName": "Cardiothrocic and Vascular Surgery",
+      "SpecialisationUrl": "f671b246-1e40-4185-a1fe-66824ba70e42.png",
+      "DoctorList": [
+        {
+          "DoctorId": 833,
+          "DoctorName": "Dr. Muthu  Jothi",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 5,
+          "SpecialisationName": "Cardiothrocic and Vascular Surgery"
+        },
+        {
+          "DoctorId": 942,
+          "DoctorName": "Dr. Neerav Bansal/Dr Biju Sivam Pillai",
+          "DoctorPic": "b5fe4c81-37de-4540-970a-f41334a72298.jpeg",
+          "Designation": "Department of Cardio Thoracic and Vascular Surgery",
+          "SpecialisationId": 5,
+          "SpecialisationName": "Cardiothrocic and Vascular Surgery"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 31,
+      "SpecialisationName": "Nephrology",
+      "SpecialisationUrl": "2e55e960-ba1e-417e-a82c-2438f0205731.png",
+      "DoctorList": [
+        {
+          "DoctorId": 2002,
+          "DoctorName": "Dr. Punkesh Kumar Bharti",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 31,
+          "SpecialisationName": "Nephrology"
+        },
+        {
+          "DoctorId": 58,
+          "DoctorName": "Dr. Tejendra Singh Chauhan",
+          "DoctorPic": "35f094ac-ca64-4493-9e1a-d28962d77990.jpeg",
+          "Designation": "Sr Consultant- Nephrology and Kidney Transplant",
+          "SpecialisationId": 31,
+          "SpecialisationName": "Nephrology"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 33,
+      "SpecialisationName": "Neurosurgery",
+      "SpecialisationUrl": "af06af69-b134-4472-b422-5cc56328a494.png",
+      "DoctorList": [
+        {
+          "DoctorId": 82,
+          "DoctorName": "Dr. Vikram Dua/ Dr Ravi Shankar/Dr Sachin Gupta",
+          "DoctorPic": "d7f2c297-e961-4503-bc07-074b8e3ae6b7.png",
+          "Designation": "Department of Neurosurgery",
+          "SpecialisationId": 33,
+          "SpecialisationName": "Neurosurgery"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 35,
+      "SpecialisationName": "Obstetrics and Gynaecology",
+      "SpecialisationUrl": "120ecbee-4634-4435-babc-dd6f498d659d.png",
+      "DoctorList": [
+        {
+          "DoctorId": 818,
+          "DoctorName": "Dr. Anamika S Kumari",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 35,
+          "SpecialisationName": "Obstetrics and Gynaecology"
+        },
+        {
+          "DoctorId": 822,
+          "DoctorName": "Dr. Aradhana  Gupta",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 35,
+          "SpecialisationName": "Obstetrics and Gynaecology"
+        },
+        {
+          "DoctorId": 824,
+          "DoctorName": "Dr. Aradhana Kalra Dawar OBS",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 35,
+          "SpecialisationName": "Obstetrics and Gynaecology"
+        },
+        {
+          "DoctorId": 872,
+          "DoctorName": "Dr. Sabita  Kumari",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 35,
+          "SpecialisationName": "Obstetrics and Gynaecology"
+        },
+        {
+          "DoctorId": 2000,
+          "DoctorName": "Dr. Kamna  Bakshi",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 35,
+          "SpecialisationName": "Obstetrics and Gynaecology"
+        },
+        {
+          "DoctorId": 2144,
+          "DoctorName": "Dr. Pooja  Goel",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 35,
+          "SpecialisationName": "Obstetrics and Gynaecology"
+        },
+        {
+          "DoctorId": 2431,
+          "DoctorName": "Dr. Sheela  Sharma",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 35,
+          "SpecialisationName": "Obstetrics and Gynaecology"
+        },
+        {
+          "DoctorId": 2532,
+          "DoctorName": "Dr. Namrata  Seth",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 35,
+          "SpecialisationName": "Obstetrics and Gynaecology"
+        },
+        {
+          "DoctorId": 2779,
+          "DoctorName": "Dr. Nisha /Dr Chanchal/ Dr Preeti",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 35,
+          "SpecialisationName": "Obstetrics and Gynaecology"
+        },
+        {
+          "DoctorId": 878,
+          "DoctorName": "Ms. Navodita  Dhawan",
+          "DoctorPic": "",
+          "Designation": "Lactation Counselling Consultant",
+          "SpecialisationId": 35,
+          "SpecialisationName": "Obstetrics and Gynaecology"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 4,
+      "SpecialisationName": "Interventional Cardiology",
+      "SpecialisationUrl": "db7e666d-67de-4513-af0b-24a69f4988e1.png",
+      "DoctorList": [
+        {
+          "DoctorId": 2825,
+          "DoctorName": "Dr. Binay  Kumar",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 4,
+          "SpecialisationName": "Interventional Cardiology"
+        },
+        {
+          "DoctorId": 25,
+          "DoctorName": "Dr. Rakesh Rai Sapra",
+          "DoctorPic": "6dfdd084-c455-427f-8d3e-7b772cc15fa1.jpeg",
+          "Designation": "Director and Sr. Consultant- Cardiology",
+          "SpecialisationId": 4,
+          "SpecialisationName": "Interventional Cardiology"
+        },
+        {
+          "DoctorId": 12,
+          "DoctorName": "Dr. Gajinder Kumar Goyal",
+          "DoctorPic": "3b871ad9-390d-463d-a7a5-2eae808e7ea7.jpeg",
+          "Designation": "HOD and Sr. Consultant- Cardiology",
+          "SpecialisationId": 4,
+          "SpecialisationName": "Interventional Cardiology"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 22,
+      "SpecialisationName": "Gastroenterology",
+      "SpecialisationUrl": "3d4b63dc-fc4f-4dde-b557-6b62d3903b9f.png",
+      "DoctorList": [
+        {
+          "DoctorId": 169,
+          "DoctorName": "Dr. Manoj Kumar Rana",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 22,
+          "SpecialisationName": "Gastroenterology"
+        },
+        {
+          "DoctorId": 44,
+          "DoctorName": "Dr. Sanjay  Kumar",
+          "DoctorPic": "458b7387-63f6-447a-b6de-95105e823836.jpeg",
+          "Designation": "Director and Sr Consultant Gastroenterology",
+          "SpecialisationId": 22,
+          "SpecialisationName": "Gastroenterology"
+        },
+        {
+          "DoctorId": 2790,
+          "DoctorName": "Dr. Irfan Ali Shera",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 22,
+          "SpecialisationName": "Gastroenterology"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 40,
+      "SpecialisationName": "Paediatrics",
+      "SpecialisationUrl": "6bf39acb-cce7-406e-9eb9-78342188ccff.png",
+      "DoctorList": [
+        {
+          "DoctorId": 2060,
+          "DoctorName": "Dr. Deepak  Bansal",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2091,
+          "DoctorName": "Dr. Vikas  Jain",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2301,
+          "DoctorName": "Dr. Vishal  Soni",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2302,
+          "DoctorName": "Dr. Pankaj  Arora",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2305,
+          "DoctorName": "Dr. Yashpal  Ahuja",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2366,
+          "DoctorName": "Dr. Sanjay  Tuteja",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2556,
+          "DoctorName": "Dr. Sanjeev Dutta/ Dr Smita",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2734,
+          "DoctorName": "Dr. Hemant/Dr Smita",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2787,
+          "DoctorName": "Dr. Tarun  Gupta",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2791,
+          "DoctorName": "Dr. Lokesh Mahajan/Dr Sonali Ghosh",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2792,
+          "DoctorName": "Dr. Sanjeev Dutta/Dr Sonali Ghosh",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 2511,
+          "DoctorName": "Dr. Sanjeev  Dutta",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 64,
+          "DoctorName": "Dr. Lokesh  Mahajan",
+          "DoctorPic": "9a6ed0d2-12ec-4146-b860-085330f9444d.jpeg",
+          "Designation": "HOD and Sr Consultant Pediatrics",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        },
+        {
+          "DoctorId": 93,
+          "DoctorName": "Dr. Deepali  Gaur",
+          "DoctorPic": "45a80687-4c58-4a17-a639-8884a6dca039.jpeg",
+          "Designation": "Consultant - Department of Pediatrics",
+          "SpecialisationId": 40,
+          "SpecialisationName": "Paediatrics"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 39,
+      "SpecialisationName": "Paediatric Surgery",
+      "SpecialisationUrl": "6c4c3d6e-2faf-4070-9ecf-b25f31cf04c5.png",
+      "DoctorList": [
+        {
+          "DoctorId": 2050,
+          "DoctorName": "Dr. John  Ratan",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 39,
+          "SpecialisationName": "Paediatric Surgery"
+        },
+        {
+          "DoctorId": 2299,
+          "DoctorName": "Dr. Sanjeev  Mehndiratta",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 39,
+          "SpecialisationName": "Paediatric Surgery"
+        },
+        {
+          "DoctorId": 2709,
+          "DoctorName": "Dr. Shweta  Malhotra",
+          "DoctorPic": "",
+          "Designation": "Pediatric Consultation",
+          "SpecialisationId": 39,
+          "SpecialisationName": "Paediatric Surgery"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 43,
+      "SpecialisationName": "Plastic  Surgery",
+      "SpecialisationUrl": "78b5e6c9-4dd7-4a12-a63f-366ea486ca2a.png",
+      "DoctorList": [
+        {
+          "DoctorId": 935,
+          "DoctorName": "Dr. Adhishwar  Sharma",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 43,
+          "SpecialisationName": "Plastic  Surgery"
+        },
+        {
+          "DoctorId": 145,
+          "DoctorName": "Dr. Kiranmayi  Atla",
+          "DoctorPic": "7d078341-5436-44b7-9d81-e2d97b8164f5.jpeg",
+          "Designation": "Consultant Plastic Surgery",
+          "SpecialisationId": 43,
+          "SpecialisationName": "Plastic  Surgery"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 21,
+      "SpecialisationName": "ENT Surgery",
+      "SpecialisationUrl": "2fdd0274-b349-4bc7-a850-07da3bcf62ce.png",
+      "DoctorList": [
+        {
+          "DoctorId": 837,
+          "DoctorName": "Dr. Anand Kumar Gupta",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 21,
+          "SpecialisationName": "ENT Surgery"
+        },
+        {
+          "DoctorId": 2016,
+          "DoctorName": "Dr. Kundan  Singh",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 21,
+          "SpecialisationName": "ENT Surgery"
+        },
+        {
+          "DoctorId": 27,
+          "DoctorName": "Dr. Anil  Thukral",
+          "DoctorPic": "09381765-0b3a-48aa-a2cf-e47c5ca7fbca.jpeg",
+          "Designation": "Sr. Consultant- ENT",
+          "SpecialisationId": 21,
+          "SpecialisationName": "ENT Surgery"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 79,
+      "SpecialisationName": "Paediatric Cardiology",
+      "SpecialisationUrl": "00fded3f-07bc-4a61-b918-6757e51a9bb6.png",
+      "DoctorList": [
+        {
+          "DoctorId": 2047,
+          "DoctorName": "Dr. Neeraj  Aggarwal",
+          "DoctorPic": "eb5687ab-f7b2-4948-92e2-d548fa7222da.jpeg",
+          "Designation": "Consultant Paediatric Cardiology",
+          "SpecialisationId": 79,
+          "SpecialisationName": "Paediatric Cardiology"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 74,
+      "SpecialisationName": "Respiratory Medicine",
+      "SpecialisationUrl": "85dda36b-0b51-4f79-bcd2-b2d0ecee80ae.png",
+      "DoctorList": [
+        {
+          "DoctorId": 2584,
+          "DoctorName": "Dr. Meenu  Kumari",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 74,
+          "SpecialisationName": "Respiratory Medicine"
+        },
+        {
+          "DoctorId": 2715,
+          "DoctorName": "Dr. Pritha Nayyar Babbar",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 74,
+          "SpecialisationName": "Respiratory Medicine"
+        },
+        {
+          "DoctorId": 56,
+          "DoctorName": "Dr. Gurmeet Singh Chabbra",
+          "DoctorPic": "1c2efe33-b53d-43c3-a0d8-6052d7fa266c.jpeg",
+          "Designation": "Sr Consultant Respiratory and Sleep Medicine",
+          "SpecialisationId": 74,
+          "SpecialisationName": "Respiratory Medicine"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 73,
+      "SpecialisationName": "Laparoscopi/Minimal Access Surgical Oncology",
+      "SpecialisationUrl": "dummy.png",
+      "DoctorList": [
+        {
+          "DoctorId": 2754,
+          "DoctorName": "Dr. Kiranmayi Atla/Dr Sudip Raina",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 73,
+          "SpecialisationName": "Laparoscopi/Minimal Access Surgical Oncology"
+        }
+      ]
+    },
+    {
+      "SpecialisationId": 52,
+      "SpecialisationName": "Vascular and Endovascular Surgery",
+      "SpecialisationUrl": "1BEDD26B-947A-465E-B373-F0D5CF3DAD65.png",
+      "DoctorList": [
+        {
+          "DoctorId": 871,
+          "DoctorName": "Dr. Suhail  Bokhari",
+          "DoctorPic": "",
+          "Designation": "",
+          "SpecialisationId": 52,
+          "SpecialisationName": "Vascular and Endovascular Surgery"
+        }
+      ]
+    }
+  ],
+  "IsSuccessful": true,
+  "FriendlyMessage": "",
+  "ErrorMessage": "",
+  "ClientToken": "CE803C1E-0B16-415B-A817-42BBCACBAA44",
+  "ClientId": "fmJMfIS-mYo:APA91bEF8zsbUCeh9-6dMMIbJcOu2Jj5cNh7LU049mTU_aGthlZbc1d1PH2pcu0BonzTYeH2mi6MU8DGOiArOudZVyXnyra_xKLC1BOUnIXAz8LtOXaw1GC2IZ8Aj8AVUq-36OxHSUHq",
+  "ApiCode": 1
+}

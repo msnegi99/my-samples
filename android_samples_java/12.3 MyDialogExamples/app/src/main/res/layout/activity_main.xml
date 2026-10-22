@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical|center_horizontal"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/infoBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Info Dialog" />
+
+    <Button
+        android:id="@+id/yesNoBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Yes, No Dialog" />
+
+    <Button
+        android:id="@+id/okCancelBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Ok, Cancel Dialog" />
+
+    <Button
+        android:id="@+id/radioBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Radio List" />
+
+    <Button
+        android:id="@+id/checkBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="CheckBox list" />
+
+    <Button
+        android:id="@+id/listBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="String list" />
+
+    <Button
+        android:id="@+id/customListBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Custom list" />
+
+    <Button
+        android:id="@+id/inputDialogBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Input Dialog" />
+
+    <Button
+        android:id="@+id/addCategoryBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Add Category" />
+
+    <Button
+        android:id="@+id/alertDialogBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="My Alert Dialog" />
+
+    <Button
+        android:id="@+id/rateUsBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Rate Us Dialog" />
+
+    <Button
+        android:id="@+id/deleteBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Confirm Delete" />
+
+    <Button
+        android:id="@+id/forgotPassBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Forgot Password" />
+
+    <Button
+        android:id="@+id/loginPassBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Login Password" />
+
+</LinearLayout>

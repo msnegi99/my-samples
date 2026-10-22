@@ -1,0 +1,8 @@
+
+DaggerTest1 -- basic implementation
+DaggerTest2 -- inject
+DaggerTest3 -- @Module, @Provides, @Binds
+DaggerTest4 -- @Named, @MessageQualifier
+DaggerTest5 -- passing retry count though module
+DaggerTest6 -- component factory + passing retry count
+DaggerTest7 -- Singleton (component level + application level)
